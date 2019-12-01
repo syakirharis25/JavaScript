@@ -12,6 +12,8 @@ My works related to JavaScript programming language.
 
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 
+JavaScript is a high-level, interpreted language that can easily be embedded with languages like HTML. It was developed by Netscape Communications Corporation, Mozilla Foundation, and ECMA International. Brendan Eich is known as the creator or designer of the JavaScript programming language.
+
 <a name="github"></a>
 ## GitHub notes
 
