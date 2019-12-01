@@ -24,3 +24,10 @@ $ git status
 ```
 
 Press [Ctrl] + [R] on your keyboard to refresh the GitHub page to see whether the files already added to GitHub or not.
+
+If there is a message said **fatal: refusing to merge unrelated histories**, after git pull origin master command, then do this command.
+```
+$ git fetch origin master
+$ git reset --hard origin/master
+$ git push origin master
+```
