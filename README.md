@@ -29,5 +29,6 @@ If there is a message said **fatal: refusing to merge unrelated histories**, aft
 ```
 $ git fetch origin master
 $ git reset --hard origin/master
+$ git pull origin master
 $ git push origin master
 ```
