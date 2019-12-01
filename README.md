@@ -22,3 +22,5 @@ $ git remote add origin https://github.com/syakirharis25/JavaScript.git
 $ git remote -v
 $ git status
 ```
+
+Press [Ctrl] + [R] on your keyboard to refresh the GitHub page to see whether the files already added to GitHub or not.
