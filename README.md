@@ -11,7 +11,10 @@ My works related to JavaScript programming language.
 <a name="github"></a>
 ## GitHub notes
 
-Initialize repository and adding GitHub remote repository
+Initialize repository, adding GitHub remote repository and check the remote repository
 ```
 $ git init
-$ git remote add origin
+$ git remote add origin https://github.com/syakirharis25/JavaScript.git
+$ git remote -v
+$ git status
+```
