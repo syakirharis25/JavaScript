@@ -33,4 +33,5 @@ $ git fetch origin master
 $ git reset --hard origin/master
 $ git pull origin master
 $ git push origin master
+$ git status
 ```
