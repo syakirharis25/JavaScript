@@ -36,7 +36,7 @@ To check the appropriate JSON format : https://www.freeformatter.com/json-format
 ## Difference of =, == and === in JavaScript
 **=** is used for assigning values to a variable in JavaScript. <br />
 **==** is used for comparison between two variables irrespective of the datatype of variable. <br />
-**===** is used for comparision between two variables but this will check strict type, which means it will check datatype and compare two values.
+**===** is used for comparison between two variables but this will check strict type, which means it will check datatype and compare two values.
 
 <a name="github"></a>
 ## GitHub notes
