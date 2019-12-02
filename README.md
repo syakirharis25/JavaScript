@@ -4,7 +4,8 @@ My works related to JavaScript programming language.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [JavaScript console.](#console)
-3. [GitHub notes.](#github)
+3. [JavaScript Object Notation (JSON)](#json)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## Introduction
@@ -21,6 +22,14 @@ The console object provides access to the browser's debugging console (e.g. the 
 The console object can be accessed from any global object. Window on browsing scopes and WorkerGlobalScope as specific variants in workers via the property console. It's exposed as Window.console, and can be referenced as simply console.
 
 Reference : https://developer.mozilla.org/en-US/docs/Web/API/console
+
+<a name="json"></a>
+## JavaScript Object Notation (JSON)
+JavaScript Object Notation (JSON) is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems.
+
+JSON is a language-independent data format. It was derived from JavaScript, but many modern programming languages include code to generate and parse JSON-format data. The official Internet media type for JSON is application/json. JSON filenames use the extension .json.
+
+To check the appropriate JSON format : https://www.freeformatter.com/json-formatter.html
 
 <a name="github"></a>
 ## GitHub notes
