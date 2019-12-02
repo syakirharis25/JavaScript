@@ -16,6 +16,8 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 
 JavaScript is a high-level, interpreted language that can easily be embedded with languages like HTML. It was developed by Netscape Communications Corporation, Mozilla Foundation, and ECMA International. Brendan Eich is known as the creator or designer of the JavaScript programming language.
 
+JavaScript is a creation of Brendan Eich : https://github.com/BrendanEich
+
 <a name="console"></a>
 ## JavaScript console
 The console object provides access to the browser's debugging console (e.g. the Web Console in Firefox). The specifics of how it works varies from browser to browser, but there is a de facto set of features that are typically provided.
