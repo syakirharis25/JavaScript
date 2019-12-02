@@ -5,7 +5,8 @@ My works related to JavaScript programming language.
 1. [Introduction.](#introduction)
 2. [JavaScript console.](#console)
 3. [JavaScript Object Notation (JSON)](#json)
-4. [GitHub notes.](#github)
+4. [Difference of =, == and === in JavaScript](#assignment)
+5. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## Introduction
@@ -30,6 +31,12 @@ JavaScript Object Notation (JSON) is an open-standard file format that uses huma
 JSON is a language-independent data format. It was derived from JavaScript, but many modern programming languages include code to generate and parse JSON-format data. The official Internet media type for JSON is application/json. JSON filenames use the extension .json.
 
 To check the appropriate JSON format : https://www.freeformatter.com/json-formatter.html
+
+<a name="assignment"></a>
+## Difference of =, == and === in JavaScript
+= is used for assigning values to a variable in JavaScript.
+== is used for comparison between two variables irrespective of the datatype of variable.
+=== is used for comparision between two variables but this will check strict type, which means it will check datatype and compare two values.
 
 <a name="github"></a>
 ## GitHub notes
