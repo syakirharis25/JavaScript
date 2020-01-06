@@ -1,11 +1,9 @@
-alert('selamat datang..');
-var lagi = true;
-
-while( lagi ) {
-	var nama = prompt('masukkan nama:');
-	alert('halo ' + nama);
-
-	lagi = confirm('coba lagi?');
+var s = '';
+for( var i = 10; i > 0; i-- ) {
+	for( var j = 0; j < i; j++){
+		s += '*';
+	}
+	s += '\n';
 }
 
-alert('terima kasih..');
+console.log(s);
