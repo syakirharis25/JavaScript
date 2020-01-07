@@ -1,9 +1,15 @@
-var s = '';
-for( var i = 10; i > 0; i-- ) {
-	for( var j = 0; j < i; j++){
-		s += '*';
-	}
-	s += '\n';
-}
+function jumlahVolumeDuaKubus(a, b) {
+	var volumeA;
+	var volumeB;
+	var total;
 
-console.log(s);
+	volumeA = a * a * a;
+	volumeB = b * b * b;
+
+	total = volumeA + volumeB;
+
+	return total;
+ }
+
+alert(jumlahVolumeDuaKubus(8,3));
+alert(jumlahVolumeDuaKubus(10,15));
