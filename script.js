@@ -1,10 +1,8 @@
-function tambah() {
-	var hasil = 0;
-	for( var i = 0; i < arguments.length; i++ ) {
-		hasil += arguments[i];
-	}
-	return hasil
+var a = 1;
+
+function tes(a){
+	console.log(a);
 }
 
-var coba = tambah(1,2,3,5);
-console.log(coba);
+tes(a);
+console.log(a);
