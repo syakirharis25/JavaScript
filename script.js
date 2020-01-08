@@ -24,16 +24,29 @@
 
 // Method pada array
 // 1. join
- var arr = ['Sandhika', 'Galih', 'Nofa'];
+// var arr = ['Sandhika', 'Galih', 'Nofa'];
 // console.log(arr.join(' - '));
 
 // 2. push & pop
-arr.push('Doddy', 'Fitri'); 
+// arr.push('Doddy', 'Fitri'); 
 // arr.pop();
 // arr.pop();
 // console.log(arr.join(' - '));
 
 // 3. unshift & shift
 // arr.unshift('Doddy');
-arr.shift();
+// arr.shift();
+// console.log(arr.join(' - '));
+
+// var arr = ['Sandhika', 'Galih', 'Nofa'];
+// 4. splice
+// splice(indexAwal, mauDihapusBerapa, elemenBaru1, elemenBaru2, ...)
+// arr.splice(1, 2, 'Doddy', 'Fitri');
+// console.log(arr.join(' - '));
+ 
+// 5. slice
+// slice(awal,akhir)
+var arr = ['Sandhika', 'Galih', 'Nofa', 'Doddy', 'Fitri'];
+var arr2 = arr.slice(1,4);
 console.log(arr.join(' - '));
+console.log(arr2.join(' - '));
