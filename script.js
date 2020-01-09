@@ -1,41 +1,31 @@
-// Membuat Object
-// Object Literal
-var mhs1 = {
-	nama : 'Sandhika Galih',
-	nrp : '043040023',
-	email : 'sandhikagalih@unpas.ac.id',
-	jurusan : 'Teknik Informatika'
+// membuat object
+
+// cara 1 - function declaration
+// function halo() {
+// 	console.log(this);
+// 	console.log('halo');
+// }
+// this.halo();
+// this mengembalikan object Global
+
+// cara 2 - object literal
+// var obj = {a : 10, nama : 'Sandhika'};
+// obj.halo = function() {
+// 	console.log(this);
+// 	console.log('halo');
+// }
+// obj.halo();
+// this mengembalikan object yang bersangkutan
+
+// cara 3 - constructor
+function Halo() {
+	console.log(this);
+	console.log('halo');
 }
+var obj1 = new Halo();
+var obj2 = new Halo();
+// this mengembalikan object yang baru dibuat
 
-var mhs2 = {
-	nama : 'Doddy',
-	nrp : '033040007',
-	email : 'doddy@gmail.com',
-	jurusan : 'Teknik Industri'
-}
-
-// Function Declaration
-function buatObjectMahasiswa(nama, nrp, email, jurusan) {
-	var mhs = {};
-	mhs.nama = nama;
-	mhs.nrp = nrp;
-	mhs.email = email;
-	mhs.jurusan = jurusan;
-	return mhs; 
-}
-
-var mhs3 = buatObjectMahasiswa('Nofariza', '023040123', 
-	'nofa@yahoo.com', 'Teknik Pangan')
-
-// Constructor
-function Mahasiswa(nama, nrp, email, jurusan) {
-	// var this = {};
-	this.nama = nama;
-	this.nrp = nrp;
-	this.email = email;
-	this.jurusan = jurusan;
-	// return this;
-}
-
-var mhs4 = new Mahasiswa('Erik', '013040321', 
-	'erik@cloud.com', 'Teknik Mesin');
+// this
+// var a = 10;
+// console.log(window.a);
