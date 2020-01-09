@@ -1,31 +1,30 @@
-// membuat object
+// membuat Object Angkot
+function Angkot(sopir, trayek, penumpang, kas) {
+	this.sopir = sopir;
+	this.trayek = trayek;
+	this.penumpang = penumpang;
+	this.kas = kas;
 
-// cara 1 - function declaration
-// function halo() {
-// 	console.log(this);
-// 	console.log('halo');
-// }
-// this.halo();
-// this mengembalikan object Global
+	this.penumpangNaik = function(namaPenumpang) {
+		this.penumpang.push(namaPenumpang);
+		return this.penumpang;
+	}
 
-// cara 2 - object literal
-// var obj = {a : 10, nama : 'Sandhika'};
-// obj.halo = function() {
-// 	console.log(this);
-// 	console.log('halo');
-// }
-// obj.halo();
-// this mengembalikan object yang bersangkutan
+	this.penumpangTurun = function(namaPenumpang, bayar) {
+		if(this.penumpang.length === 0){
+			alert('angkot masih kosong!');
+			return false;
+		}
 
-// cara 3 - constructor
-function Halo() {
-	console.log(this);
-	console.log('halo');
+		for( var i = 0; i < this.penumpang.length; i++ ) {
+			if( this.penumpang[i] == namaPenumpang ) {
+				this.penumpang[i] = undefined;
+				this.kas += bayar;
+				return this.penumpang;
+			}
+		}
+	}
 }
-var obj1 = new Halo();
-var obj2 = new Halo();
-// this mengembalikan object yang baru dibuat
 
-// this
-// var a = 10;
-// console.log(window.a);
+var angkot1 = new Angkot('Sandhika Galih', ['Cicaheum', 'Cibiru'], [], 0);
+var angkot2 = new Angkot('Tom Cruise', ['Antapani', 'Ciroyom'], [], 0);
