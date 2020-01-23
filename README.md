@@ -20,7 +20,7 @@ JavaScript is a high-level, interpreted language that can easily be embedded wit
 <a name="reference"></a>
 ## JavaScript official websites.
 JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
-
+Sublime Text editor official website : https://www.sublimetext.com <br />
 HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
