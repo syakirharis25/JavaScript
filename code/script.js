@@ -1,24 +1,15 @@
-// // DOM Selection
-// // getElementById() -> element
-// // document.getElementsByTagName() -> HTMLCollections
-// // document.getElementsByClassName()
- 
-// // document.querySelector() -> element
-// const p4 = document.querySelector('#b p');
-// p4.style.color = 'green';
-// p4.style.fontSize = '30px';
+// const judul = document.getElementById('judul');
+// judul.innerHTML = '<em>Sandhika Galih</em>';
 
-// const li2 = document.querySelector('section#b ul li:nth-child(2');
-// li2.style.backgroundColor = 'orange';
+// const sectionA = document.querySelector('section#a');
+// sectionA.innerHTML = '<div><p>paragraf1</p><div>';
 
-// // document.querySelectorAll()
-// const p = document.querySelectorAll('p');
-// for (let i=0; i<p.length; i++) {
-// 	p[i].style.backgroundColor = 'lightblue';
-// }
+// const judul = document.querySelector('#judul');
+// judul.style.color = 'lightblue';
+// judul.style.backgroundColor = 'salmon';
+
+// const judul = document.getElementsByTagName('h1')[0];
+// const a = document.querySelector('section#a a');
 
 
-
-const sectionB = document.querySelector('section#b');
-const p4 = sectionB.getElementsByTagName('p')[0];
-p4.style.backgroundColor = 'orange';
+const p2 = document.querySelector('.p2');
