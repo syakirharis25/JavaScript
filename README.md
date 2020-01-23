@@ -23,6 +23,8 @@ JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
 
 HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
+JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
+
 <a name="console"></a>
 ## JavaScript console
 The console object provides access to the browser's debugging console (e.g. the Web Console in Firefox). The specifics of how it works varies from browser to browser, but there is a de facto set of features that are typically provided.
