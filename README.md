@@ -19,9 +19,9 @@ JavaScript is a high-level, interpreted language that can easily be embedded wit
 
 <a name="reference"></a>
 ## JavaScript official websites.
-JavaScript was created by Brendan Eich : https://github.com/BrendanEich
+JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
 
-HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
+HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
 <a name="console"></a>
 ## JavaScript console
