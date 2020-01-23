@@ -3,10 +3,11 @@ My works related to JavaScript programming language.
 
 ## Table of Contents
 1. [Introduction.](#introduction)
-2. [JavaScript console.](#console)
-3. [JavaScript Object Notation (JSON)](#json)
-4. [Difference of =, == and === in JavaScript](#assignment)
-5. [GitHub notes.](#github)
+2. [JavaScript official websites.](#reference)
+3. [JavaScript console.](#console)
+4. [JavaScript Object Notation (JSON)](#json)
+5. [Difference of =, == and === in JavaScript](#assignment)
+6. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## Introduction
@@ -16,7 +17,11 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 
 JavaScript is a high-level, interpreted language that can easily be embedded with languages like HTML. It was developed by Netscape Communications Corporation, Mozilla Foundation, and ECMA International. Brendan Eich is known as the creator or designer of the JavaScript programming language.
 
+<a name="reference"></a>
+## JavaScript official websites.
 JavaScript was created by Brendan Eich : https://github.com/BrendanEich
+
+HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
 
 <a name="console"></a>
 ## JavaScript console
