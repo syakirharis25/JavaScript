@@ -27,6 +27,7 @@ Emmet documentation : https://docs.emmet.io <br />
 HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
+JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
 
 <a name="console"></a>
 ## JavaScript console
