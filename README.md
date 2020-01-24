@@ -23,6 +23,7 @@ JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
 Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
 Emmet official website : https://emmet.io <br />
+Emmet documentation : https://docs.emmet.io <br />
 HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
