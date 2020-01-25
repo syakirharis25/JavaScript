@@ -32,7 +32,9 @@ JavaScript EventListener by Mozilla :https://developer.mozilla.org/en-US/docs/We
 JavaScript const by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const <br />
 JavaScript Element.innerHTML by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML <br />
 JavaScript HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
-JavaScript Document.querySelector() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+JavaScript Document.querySelector() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector <br />
+JavaScript Math by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math <br /
+JavaScript MouseEvent by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent <br />
 
 <a name="console"></a>
 ## JavaScript console
