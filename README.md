@@ -36,6 +36,8 @@ JavaScript Document.querySelector() by Mozilla : https://developer.mozilla.org/e
 JavaScript Math by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math <br />
 JavaScript MouseEvent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent <br />
 JavaScript Element.setAttribute() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute <br />
+JavaScript WindowOrWorkerGlobalScope.setInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval <br />
+JavaScript WindowOrWorkerGlobalScope.clearInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval <br />
 
 <a name="console"></a>
 ## JavaScript console
