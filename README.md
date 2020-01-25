@@ -38,6 +38,7 @@ JavaScript MouseEvent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/
 JavaScript Element.setAttribute() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute <br />
 JavaScript WindowOrWorkerGlobalScope.setInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval <br />
 JavaScript WindowOrWorkerGlobalScope.clearInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval <br />
+JavaScript Document.querySelectorAll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll <br />
 
 <a name="console"></a>
 ## JavaScript console
