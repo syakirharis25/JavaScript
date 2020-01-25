@@ -46,6 +46,7 @@ JavaScript Node.previousSibling by Mozilla : https://developer.mozilla.org/en-US
 JavaScript NonDocumentTypeChildNode.previousElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/previousElementSibling <br />
 JavaScript Event.preventDefault() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault <br />
 JavaScript Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation
+JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
 
 <a name="console"></a>
 ## JavaScript console
