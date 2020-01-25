@@ -24,13 +24,15 @@ Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
 Emmet official website : https://emmet.io <br />
 Emmet documentation : https://docs.emmet.io <br />
-HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
 JavaScript Event reference by Mozilla : https://developer.mozilla.org/en-US/docs/web/events <br />
-JavaScript EventListener by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/EventListener
-JavaScript const by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+JavaScript EventListener by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/EventListener <br />
+JavaScript const by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const <br />
+JavaScript Element.innerHTML by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML <br />
+JavaScript HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
+JavaScript Document.querySelector() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
 
 <a name="console"></a>
 ## JavaScript console
