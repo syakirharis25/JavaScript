@@ -29,6 +29,7 @@ HTMLCollection : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
 JavaScript Event reference by Mozilla : https://developer.mozilla.org/en-US/docs/web/events <br />
+JavaScript const by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
 
 <a name="console"></a>
 ## JavaScript console
