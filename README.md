@@ -40,6 +40,7 @@ JavaScript WindowOrWorkerGlobalScope.setInterval() by Mozilla : https://develope
 JavaScript WindowOrWorkerGlobalScope.clearInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval <br />
 JavaScript Document.querySelectorAll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll <br />
 JavaScript Node.parentElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement <br />
+JavaScript Node.nextSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/nextSibling <br />
 
 <a name="console"></a>
 ## JavaScript console
