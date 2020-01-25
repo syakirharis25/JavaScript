@@ -42,6 +42,7 @@ JavaScript Document.querySelectorAll() by Mozilla : https://developer.mozilla.or
 JavaScript Node.parentElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement <br />
 JavaScript Node.nextSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/nextSibling <br />
 JavaScript NonDocumentTypeChildNode.nextElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/nextElementSibling <br />
+JavaScript Node.previousSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/previousSibling <br />
 
 <a name="console"></a>
 ## JavaScript console
