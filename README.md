@@ -45,6 +45,7 @@ JavaScript NonDocumentTypeChildNode.nextElementSibling by Mozilla : https://deve
 JavaScript Node.previousSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/previousSibling <br />
 JavaScript NonDocumentTypeChildNode.previousElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/previousElementSibling <br />
 JavaScript Event.preventDefault() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault <br />
+JavaScript Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation
 
 <a name="console"></a>
 ## JavaScript console
