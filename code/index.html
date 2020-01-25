@@ -1,40 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Latihan DOM</title>
-  <style>
-    html, body {
-      height: 100%;
-    }
-    body {
-        text-align: center;
-    } 
-    .kotak {
-      width: 25px;
-      height: 25px;
-      margin: 10px auto;
-    }
-    .merah { background-color: red; }
-    .hijau { background: green; }
-    .biru { background: blue ; }
-    .biru-muda { background-color: lightblue; }
-  </style>
+    <title>DOM Traversal</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-  <h1>Bermain dengan Warna</h1>
-  <button type="button" id="tUbahWarna">Ubah Warna</button>
-  
-  <br><br>
-  
-  <div class="kotak merah"></div>
-  <input type="range" name="sMerah" min="0" max="255">
 
-  <div class="kotak hijau"></div>
-  <input type="range" name="sHijau" min="0" max="255">
-  
-  <div class="kotak biru"></div>
-  <input type="range" name="sBiru" min="0" max="255">
+<div class="container">
 
-  <script src="script.js"></script>
+  <div class="card">
+    <img src="img/syakirharis.png" width="96" height="96">
+    <span class="nama">Muhammad Syakir</span>
+    <span class="telp">+60139531105</span>
+    <span class="close">×</span>
+  </div>
+
+  <div class="card">
+    <img src="img/ayrton.png" width="96" height="96">
+    <span class="nama">Ayrton Senna</span>
+    <span class="telp">+60139531105</span>
+    <span class="close">×</span>
+  </div> 
+  
+  <div class="card">
+    <img src="img/bill.png" width="96" height="96">
+    <span class="nama">Bill Gates</span>
+    <span class="telp">+60139531105</span>
+    <span class="close">×</span>
+  </div> 
+
+  <div class="card">
+    <img src="img/david.png" width="96" height="96">
+    <span class="nama">David Beckham</span>
+    <span class="telp">+60139531105</span>
+    <span class="close">×</span>
+  </div> 
+
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
