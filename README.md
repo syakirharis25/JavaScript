@@ -105,7 +105,7 @@ $ git status
 
 <a name="jobs"></a>
 ## JavaScript jobs.
-JavaScript freelance jobs by Upwork : https://www.upwork.com/freelance-jobs/javascript
-JavaScript remote jobs by remoteok : https://remoteok.io
-JavaScript jobs by stackoverflow : https://stackoverflow.com/jobs/developer-jobs-using-javascript
-JavaScript jobs by JS remotely : https://jsremotely.com
+JavaScript freelance jobs by Upwork : https://www.upwork.com/freelance-jobs/javascript <br />
+JavaScript remote jobs by remoteok : https://remoteok.io <br />
+JavaScript jobs by stackoverflow : https://stackoverflow.com/jobs/developer-jobs-using-javascript <br />
+JavaScript jobs by JS remotely : https://jsremotely.com <br />
