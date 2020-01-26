@@ -45,9 +45,11 @@ JavaScript NonDocumentTypeChildNode.nextElementSibling by Mozilla : https://deve
 JavaScript Node.previousSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/previousSibling <br />
 JavaScript NonDocumentTypeChildNode.previousElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/previousElementSibling <br />
 JavaScript Event.preventDefault() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault <br />
-JavaScript Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation
-JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
-JavaScript Element.classList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+JavaScript Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation <br />
+JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout <br />
+JavaScript Element.classList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/classList <br />
+
+What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 
 <a name="console"></a>
 ## JavaScript console
