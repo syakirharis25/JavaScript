@@ -48,6 +48,7 @@ JavaScript Event.preventDefault() by Mozilla : https://developer.mozilla.org/en-
 JavaScript Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation <br />
 JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout <br />
 JavaScript Element.classList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/classList <br />
+JavaScript console.log() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/log <br />
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 
