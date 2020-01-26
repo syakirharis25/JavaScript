@@ -1,24 +1,76 @@
-const container = document.querySelector('.container');
-const jumbo = document.querySelector('.jumbo');
-const thumbs = document.querySelectorAll('.thumb');
+// 2.1 EXECUTION CONTEXT, HOISTING & SCOPE
 
-container.addEventListener('click', function(e) {
+// var nama = 'Sandhika';
+// console.log(nama);
 
-	//check apakah yang di-klik adalah thumb
-	if( e.target.className == 'thumb' ) {
-		jumbo.src = e.target.src;
-		jumbo.classList.add('fade');
-		setTimeout(function() {
-			jumbo.classList.remove('fade');
-		}, 500);
-	}
+// creation phase pada Global Context
+// nama var = undefined
+// nama function = fn()
+// hoisting
+// window = global object
+// this = window
 
-	thumbs.forEach(function(thumb) {
-		// if( thumb.classList.contains('active')) {
-		// 	thumb.classList.remove('active');
-		// }
-		thumb.className = 'thumb';
-	});
+// execution <phase></phase>
 
-	e.target.classList.add('active');
-});
+// console.log(sayHello());
+
+// var nama = 'Sandhika';
+// var umur = 33;
+
+// function sayHello() {
+// 	return `Halo, nama saya ${nama}, saya ${umur} tahun.`;
+// }
+
+// function membuat Local Execution Context
+// yang di dalamnya terdapat creation dan execution phase
+// window
+// arguments
+// hoisting
+
+
+
+// var nama = 'Sandhika Galih';
+// var username = '@sandhikagalih';
+
+// function cetakURL() {
+// 	console.log(arguments);
+// 	var instagramURL = 'http://instagram.com/';
+// 	return instagramURL + username;
+// }
+
+// console.log(cetakURL('@doddyferdiansyah', '@erik'));
+
+// function a() {
+// 		console.log('ini a');
+
+// 		function b() {
+// 			console.log('ini b');
+
+// 		function c() {
+// 			console.log('ini c');
+// 		}
+
+// 	c();
+
+// 	}
+
+// 	b();
+// }
+
+// a();
+
+
+function satu() {
+	var nama = 'Sandhika';
+	console.log(nama);
+}
+
+function dua() {
+	console.log(nama);
+}
+
+console.log(nama);
+var nama = 'Erik';
+satu();
+dua('Doddy');
+console.log(nama);
