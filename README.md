@@ -56,7 +56,8 @@ JavaScript Object.create() by Mozilla : https://developer.mozilla.org/en-US/docs
 JavaScript Object prototypes by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes <br />
 JavaScript Hoisting by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Hoisting <br />
 JavaScript Console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/dir <br />
-JavasScript var by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var <br />
+JavaScript var by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var <br />
+JavaScript Arrow function expressions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions <br />
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 
