@@ -20,6 +20,8 @@ JavaScript is a high-level, interpreted language that can easily be embedded wit
 <a name="reference"></a>
 ## JavaScript official websites.
 JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
+Philip Guo official GitHub : https://github.com/pgbovine <br />
+
 Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
 Emmet official website : https://emmet.io <br />
@@ -54,7 +56,7 @@ JavaScript Object prototypes by Mozilla : https://developer.mozilla.org/en-US/do
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 
-Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html
+Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
 
 <a name="console"></a>
 ## JavaScript console
