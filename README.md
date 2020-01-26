@@ -61,6 +61,7 @@ JavaScript Arrow function expressions by Mozilla : https://developer.mozilla.org
 JavaScript Array.prototype.map() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map <br />
 JavaScript Console.table() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/table <br />
 JavaScript Function expression by Mozilla : https://developer.mozilla.org/en-US/docs/web/JavaScript/Reference/Operators/function <br />
+JavaScript Closures by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures <br />
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 
