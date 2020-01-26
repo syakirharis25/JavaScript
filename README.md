@@ -8,9 +8,10 @@ My works related to JavaScript programming language.
 4. [JavaScript Object Notation (JSON)](#json)
 5. [Difference of =, == and === in JavaScript](#assignment)
 6. [GitHub notes.](#github)
+7. [JavaScript jobs.](#jobs)
 
 <a name="introduction"></a>
-## Introduction
+## Introduction.
 <img src="javascript.jpg" height="150">
 
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
@@ -60,7 +61,7 @@ What’s in the head? Metadata in HTML article by Mozilla : https://developer.mo
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
 
 <a name="console"></a>
-## JavaScript console
+## JavaScript console.
 The console object provides access to the browser's debugging console (e.g. the Web Console in Firefox). The specifics of how it works varies from browser to browser, but there is a de facto set of features that are typically provided.
 
 The console object can be accessed from any global object. Window on browsing scopes and WorkerGlobalScope as specific variants in workers via the property console. It's exposed as Window.console, and can be referenced as simply console.
@@ -68,7 +69,7 @@ The console object can be accessed from any global object. Window on browsing sc
 Reference : https://developer.mozilla.org/en-US/docs/Web/API/console
 
 <a name="json"></a>
-## JavaScript Object Notation (JSON)
+## JavaScript Object Notation (JSON).
 JavaScript Object Notation (JSON) is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems.
 
 JSON is a language-independent data format. It was derived from JavaScript, but many modern programming languages include code to generate and parse JSON-format data. The official Internet media type for JSON is application/json. JSON filenames use the extension .json.
@@ -82,7 +83,7 @@ To check the appropriate JSON format : https://www.freeformatter.com/json-format
 **===** is used for comparison between two variables but this will check strict type, which means it will check datatype and compare two values.
 
 <a name="github"></a>
-## GitHub notes
+## GitHub notes.
 Initialize repository, adding GitHub remote repository and check the remote repository
 ```
 $ git init
@@ -101,3 +102,10 @@ $ git pull origin master
 $ git push origin master
 $ git status
 ```
+
+<a name="jobs"></a>
+## JavaScript jobs.
+JavaScript freelance jobs by Upwork : https://www.upwork.com/freelance-jobs/javascript
+JavaScript remote jobs by remoteok : https://remoteok.io
+JavaScript jobs by stackoverflow : https://stackoverflow.com/jobs/developer-jobs-using-javascript
+JavaScript jobs by JS remotely : https://jsremotely.com
