@@ -59,6 +59,7 @@ JavaScript Console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/W
 JavaScript var by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var <br />
 JavaScript Arrow function expressions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions <br />
 JavaScript Array.prototype.map() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map <br />
+JavaScript Console.table() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 
