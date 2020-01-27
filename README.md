@@ -9,9 +9,10 @@ My works related to JavaScript programming language.
 5. [Difference of =, == and === in JavaScript](#assignment)
 6. [GitHub notes.](#github)
 7. [JavaScript jobs.](#jobs)
+8. [JavaScript book.](#book)
 
 <a name="introduction"></a>
-## Introduction.
+## 1. Introduction.
 <img src="javascript.jpg" height="150">
 
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
@@ -19,9 +20,11 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 JavaScript is a high-level, interpreted language that can easily be embedded with languages like HTML. It was developed by Netscape Communications Corporation, Mozilla Foundation, and ECMA International. Brendan Eich is known as the creator or designer of the JavaScript programming language.
 
 <a name="reference"></a>
-## JavaScript official websites.
+## 2. JavaScript official websites.
 JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
 Philip Guo official GitHub : https://github.com/pgbovine <br />
+
+Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
@@ -68,7 +71,7 @@ What’s in the head? Metadata in HTML article by Mozilla : https://developer.mo
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
 
 <a name="console"></a>
-## JavaScript console.
+## 3. JavaScript console.
 The console object provides access to the browser's debugging console (e.g. the Web Console in Firefox). The specifics of how it works varies from browser to browser, but there is a de facto set of features that are typically provided.
 
 The console object can be accessed from any global object. Window on browsing scopes and WorkerGlobalScope as specific variants in workers via the property console. It's exposed as Window.console, and can be referenced as simply console.
@@ -76,7 +79,7 @@ The console object can be accessed from any global object. Window on browsing sc
 Reference : https://developer.mozilla.org/en-US/docs/Web/API/console
 
 <a name="json"></a>
-## JavaScript Object Notation (JSON).
+## 4. JavaScript Object Notation (JSON).
 JavaScript Object Notation (JSON) is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems.
 
 JSON is a language-independent data format. It was derived from JavaScript, but many modern programming languages include code to generate and parse JSON-format data. The official Internet media type for JSON is application/json. JSON filenames use the extension .json.
@@ -84,13 +87,13 @@ JSON is a language-independent data format. It was derived from JavaScript, but 
 To check the appropriate JSON format : https://www.freeformatter.com/json-formatter.html
 
 <a name="assignment"></a>
-## Difference of =, == and === in JavaScript
+## 5. Difference of =, == and === in JavaScript
 **=** is used for assigning values to a variable in JavaScript. <br />
 **==** is used for comparison between two variables irrespective of the datatype of variable. <br />
 **===** is used for comparison between two variables but this will check strict type, which means it will check datatype and compare two values.
 
 <a name="github"></a>
-## GitHub notes.
+## 6. GitHub notes.
 Initialize repository, adding GitHub remote repository and check the remote repository
 ```
 $ git init
@@ -111,8 +114,11 @@ $ git status
 ```
 
 <a name="jobs"></a>
-## JavaScript jobs.
+## 7. JavaScript jobs.
 JavaScript freelance jobs by Upwork : https://www.upwork.com/freelance-jobs/javascript <br />
 JavaScript remote jobs by remoteok : https://remoteok.io <br />
 JavaScript jobs by stackoverflow : https://stackoverflow.com/jobs/developer-jobs-using-javascript <br />
 JavaScript jobs by JS remotely : https://jsremotely.com <br />
+
+<a name="book"></a>
+## 7. JavaScript book.
