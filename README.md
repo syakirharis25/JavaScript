@@ -113,6 +113,17 @@ $ git push origin master
 $ git status
 ```
 
+To remove file from GitHub.
+```
+$ git status
+$ git restore --staged filename
+$ git status
+$ git rm --cached filename
+$ git status
+$ git commit --amend -CHEAD
+$ git status
+```
+
 <a name="jobs"></a>
 ## 7. JavaScript jobs.
 JavaScript freelance jobs by Upwork : https://www.upwork.com/freelance-jobs/javascript <br />
