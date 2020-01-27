@@ -1,33 +1,26 @@
-// ambil semua elemen video
-const videos = Array.from(document.querySelectorAll('[data-duration]'));
+// Template Literals / Template String
+const nama = 'Sandhika';
+const umur = 33;
+// console.log(`Halo, nama saya ${nama}, dan saya ${umur} tahun.`);
+// console.log('Halo, nama saya ' + nama + ', dan saya ' + umur + ' tahun.');
 
-// pilih hanya yang 'JAVASCRIPT LANJUTAN'
-let jsLanjut = videos.filter(video => video.textContent.includes('JAVASCRIPT LANJUTAN'))
+// Embedded Expression
+// console.log(`${1 + 1}`)
+// console.log(`${alert('halo')}`);
+// const x = 11;
+// console.log(`${(x % 2 == 0) ? 'genap' : 'ganjil'}`);
 
-// ambil durasi masing2 video
-    .map(item => item.dataset.duration)
+// HTML Fragments
+// const mhs = {
+//     nama: 'Sandhika Galih',
+//     umur: 33,
+//     nrp: '043040023',
+//     email: 'sandhikagalih@unpas.ac.id'
+// };
 
-// ubah durasi menjadi float, ubah menit menjadi detik
-    .map(waktu => {
-        // 10:30 -> [10, 30] split
-        const parts = waktu.split(':').map(part => parseFloat(part));
-        return (parts[0] * 60) + parts[1];
-    })
- 
-// jumlahkan semua detik
-    .reduce((total, detik) => total + detik);
+const el = `<div class="mhs">
+    <h2>${mhs.nama}</h2>
+    <span class="nrp">${mhs.nrp}</span>
+</div>`;
 
-// ubah formatnya jadi jam menit detik
-const jam = Math.floor(jsLanjut / 3600);
-jsLanjut = jsLanjut - jam * 3600;
-const menit = Math.floor(jsLanjut / 60);
-const detik = jsLanjut - menit * 60;
-
-// simpan di DOM
-const pDurasi = document.querySelector('.total-durasi');
-pDurasi.textContent = `${jam} Jam, ${menit} Menit, ${detik} Detik.`;
-const jmlVideo = videos.filter(video => video.textContent.includes('JAVASCRIPT LANJUTAN')).length;
-const pJmlVideo = document.querySelector('.jumlah-video');
-pJmlVideo.textContent = `${jmlVideo} Video.`;
-
-console.log(jmlVideo);
+console.log(el);
