@@ -74,6 +74,7 @@ JavaScript parseFloat() by Mozilla : https://developer.mozilla.org/en-US/docs/We
 JavaScript Math.floor() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
 JavaScript Node.textContent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
 JavaScript Template literals (Template strings) by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+JavaScript Conditional (ternary) operator by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 An introduction to functional programming article by Mary Rose Cook : https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming <br />
