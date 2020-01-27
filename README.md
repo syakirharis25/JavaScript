@@ -124,6 +124,21 @@ $ git commit --amend -CHEAD
 $ git status
 ```
 
+To change certain commit message in GitHub.
+```
+$ git log --oneline
+$ git rebase -i HEAD~5
+```
+
+When the text editor show up, change the _**pick**_ word of certain hash commit message to _**reword**_, then after save and exit the text editor, change to the desired commit message, then save the new commit message. Refer to _**Rewriting Commit Messages in Git**_ explanation in https://www.youtube.com/watch?v=4YjKY0u9Z6I, by Eric Phetteplace.
+
+Then do this command, to push the new changes into Github.
+```
+$ git log --oneline
+$ git push origin master --force
+$ git status
+```
+
 <a name="jobs"></a>
 ## 7. JavaScript jobs.
 JavaScript freelance jobs by Upwork : https://www.upwork.com/freelance-jobs/javascript <br />
