@@ -28,6 +28,7 @@ Anjana Vakil official GitHub : https://github.com/vakila <br />
 
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
+Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
 Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
 Emmet official website : https://emmet.io <br />
