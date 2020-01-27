@@ -28,6 +28,7 @@ Anjana Vakil official GitHub : https://github.com/vakila <br />
 
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
+Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
 Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
 Emmet official website : https://emmet.io <br />
@@ -68,7 +69,10 @@ JavaScript Console.table() by Mozilla : https://developer.mozilla.org/en-US/docs
 JavaScript Function expression by Mozilla : https://developer.mozilla.org/en-US/docs/web/JavaScript/Reference/Operators/function <br />
 JavaScript Closures by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures <br />
 JavaScript Array.prototype.filter() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter <br />
-JavaScript Array.prototype.reduce() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+JavaScript Array.prototype.reduce() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce <br />
+JavaScript parseFloat() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat <br />
+JavaScript Math.floor() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+JavaScript Node.textContent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 An introduction to functional programming article by Mary Rose Cook : https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming <br />
