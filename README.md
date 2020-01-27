@@ -67,6 +67,7 @@ JavaScript Array.prototype.map() by Mozilla : https://developer.mozilla.org/en-U
 JavaScript Console.table() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/table <br />
 JavaScript Function expression by Mozilla : https://developer.mozilla.org/en-US/docs/web/JavaScript/Reference/Operators/function <br />
 JavaScript Closures by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures <br />
+JavaScript Array.prototype.filter() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter <br />
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 An introduction to functional programming article by Mary Rose Cook : https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming <br />
