@@ -23,6 +23,7 @@ JavaScript is a high-level, interpreted language that can easily be embedded wit
 ## 2. JavaScript official websites.
 JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
 Philip Guo official GitHub : https://github.com/pgbovine <br />
+Marijn Haverbeke official GitHub : https://github.com/marijnh <br />
 
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
