@@ -136,4 +136,4 @@ JavaScript jobs by JS remotely : https://jsremotely.com <br />
 
 Eloquent JavaScript by Marijn Haverbeke. <br />
 
-<img src="eloquent-javascript.jpg" height="300">
+<img src="eloquent-javascript.jpg" height="500">
