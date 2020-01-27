@@ -69,6 +69,7 @@ JavaScript Function expression by Mozilla : https://developer.mozilla.org/en-US/
 JavaScript Closures by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures <br />
 
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
+An introduction to functional programming article by Mary Rose Cook : https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming <br />
 
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
 
