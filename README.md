@@ -121,4 +121,7 @@ JavaScript jobs by stackoverflow : https://stackoverflow.com/jobs/developer-jobs
 JavaScript jobs by JS remotely : https://jsremotely.com <br />
 
 <a name="book"></a>
-## 7. JavaScript book.
+## 8. JavaScript book.
+
+Eloquent JavaScript by Marijn Haverbeke
+<img src="eloquent-javascript.jpg" height="150">
