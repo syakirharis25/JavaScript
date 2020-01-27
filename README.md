@@ -149,6 +149,6 @@ JavaScript jobs by JS remotely : https://jsremotely.com <br />
 <a name="book"></a>
 ## 8. JavaScript book.
 
-Eloquent JavaScript by Marijn Haverbeke. <br />
+Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 <img src="eloquent-javascript.jpg" height="500">
