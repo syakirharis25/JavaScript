@@ -23,13 +23,15 @@ JavaScript is a high-level, interpreted language that can easily be embedded wit
 <a name="reference"></a>
 ## 2. JavaScript official websites.
 JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
-Philip Guo official GitHub : https://github.com/pgbovine <br />
-Marijn Haverbeke official GitHub : https://github.com/marijnh <br />
-Anjana Vakil official GitHub : https://github.com/vakila <br />
+Philip Guo official GitHub account : https://github.com/pgbovine <br />
+Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
+Anjana Vakil official GitHub account : https://github.com/vakila <br />
+Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
 
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
+Fira Code for Visual Studio Code by Nikita Prokopov : https://github.com/tonsky/FiraCode <br />
 Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
 Emmet official website : https://emmet.io <br />
