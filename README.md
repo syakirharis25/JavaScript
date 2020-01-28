@@ -32,6 +32,7 @@ Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <b
 
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
 Fira Code for Visual Studio Code by Nikita Prokopov : https://github.com/tonsky/FiraCode <br />
+Keyboard shortcuts for Windows - Visual Studio Code : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf <br />
 Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
 Emmet official website : https://emmet.io <br />
