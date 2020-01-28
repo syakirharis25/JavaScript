@@ -27,6 +27,7 @@ Philip Guo official GitHub account : https://github.com/pgbovine <br />
 Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
 Anjana Vakil official GitHub account : https://github.com/vakila <br />
 Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
+Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
 
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
