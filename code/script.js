@@ -1,84 +1,29 @@
-// 1. HTML Fragments
-// const mhs = {
-//     nama: 'Sandhika Galih',
-//     umur: 33,
-//     nrp: '043040023',
-//     email: 'sandhikagalih@unpas.ac.id'
-// };
+// Tagged Templates
+// const nama = 'Sandhika Galih';
+// const umur = 33;
 
-// const el = `<div class="mhs">
-//     <h2>${mhs.nama}</h2>
-//     <span class="nrp">${mhs.nrp}</span>
-// </div>`
+// function coba(strings, ...values) {
+//     // let result = '';
+//     // strings.forEach((str, i) => {
+//     //     result += `${str}${values[i] || ''}`;
+//     // });
+//     // return result;
 
-// console.log(el);
-
-// 2. Looping
-// const mhs = [
-//     {
-//         nama: 'Sandhika Galih',
-//         email: 'sandhikagalih@unpas.ac.id'
-//     },
-//     {
-//         nama: 'Doddy Ferdiansyah',
-//         email: 'sandhikagalih@unpas.ac.id'
-//     },
-//     {
-//         nama: 'Erik',
-//         email: 'sandhikagalih@unpas.ac.id'
-//     }
-// ];
-
-// const el = `<div class="mhs">
-//     ${mhs.map(m => `<ul>
-//     <li>${m.nama}</li>
-//     <li>${m.email}</li>
-//     </ul>`).join('')}
-// </div>`;
-
-// 3. Conditionals
-// ternary
-// const lagu = {
-//     judul: 'Kau Adalah',
-//     penyanyi: 'Isyana Sarasvati',
-//     feat: 'Rayi Putra'
+//     return strings.reduce((result, str, i) => `${result}${str}${values[i] || ''}`, '');
 // }
 
-// const el = `<div class="lagu">
-//     <ul>
-//         <li>${lagu.penyanyi}</li>
-//         <li>${lagu.judul} ${lagu.feat ? `(feat. ${lagu.feat})` : ''}</li>
-//     </ul>
-// </div>`;
+// const str = coba `Halo, nama saya ${nama}, saya ${umur} tahun.`;
+// console.log(str);
 
+//Highlight
+const nama = 'Sandhika Galih';
+const umur = 33;
+const email = 'sandhikagalih@unpas.ac.id';
 
-// 4. Nested
-// HTML Fragments bersarang
-
-const mhs = {
-    nama: 'Sandhika Galih',
-    semester: 5,
-    mataKuliah: [
-        'Rekayasa Web', 
-        'Analisis dan Perancangan Sistem Informasi',
-        'Pemrograman Sistem Interaktif',
-        'Perancangan Sistem Berorientasi Object'
-    ]
-};
-
-function cetakmataKuliah(mataKuliah) {
-    return `
-        <ol>
-           ${mataKuliah.map(mk => `<li>${mk}</li>`).join('')}
-        </ol>
-    `;
+function highlight(strings, ...values) {
+    return strings.reduce((result, str, i) => `${result}${str}<span class="hl">${values[i] || ''}</span>`, '');
 }
 
-const el = `<div class="mhs">
-    <h2>${mhs.nama}</h2>
-    <span class="semester">Semester : ${mhs.semester}</span>
-    <h4>Mata Kuliah :</h4>
-    ${cetakmataKuliah(mhs.mataKuliah)}
-</div>`;
+const str = highlight `Halo, nama saya ${nama}, saya ${umur} tahun, dan email saya adalah : ${email}.`;
 
-document.body.innerHTML = el;
+document.body.innerHTML = str;
