@@ -7,9 +7,10 @@ My works related to JavaScript programming language.
 3. [JavaScript console.](#console)
 4. [JavaScript Object Notation (JSON)](#json)
 5. [Difference of =, == and === in JavaScript](#assignment)
-6. [GitHub notes.](#github)
-7. [JavaScript jobs.](#jobs)
-8. [JavaScript book.](#book)
+6. [Choosing browser using Live Server for Visual Studio Code.](#liveserver)
+7. [GitHub notes.](#github)
+8. [JavaScript jobs.](#jobs)
+9. [JavaScript book.](#book)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -103,8 +104,12 @@ To check the appropriate JSON format : https://www.freeformatter.com/json-format
 **==** is used for comparison between two variables irrespective of the datatype of variable. <br />
 **===** is used for comparison between two variables but this will check strict type, which means it will check datatype and compare two values.
 
+<a name="liveserver"></a>
+## 6. Choosing browser using Live Server for Visual Studio Code.
+To view the changes in the browser while editing the JavaScript codes in Visual Studio Code, install `Live Server` from https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer, then from the top of Visual Studio Code, click the `File` from the menu, then `Preferences` > `Settings`, type `liveserver`, on the top right, below the `User` menu, under `Extensions`, click `Live Server Config`, scroll down the mouse, until found the word `Live Server > Settings: Custom Browser`, choose the desired browser from the drop down that have arrow down picture on it, in this case, `chrome`.
+
 <a name="github"></a>
-## 6. GitHub notes.
+## 7. GitHub notes.
 Initialize repository, adding GitHub remote repository and check the remote repository
 ```
 $ git init
@@ -151,14 +156,14 @@ $ git status
 ```
 
 <a name="jobs"></a>
-## 7. JavaScript jobs.
+## 8. JavaScript jobs.
 JavaScript freelance jobs by Upwork : https://www.upwork.com/freelance-jobs/javascript <br />
 JavaScript remote jobs by remoteok : https://remoteok.io <br />
 JavaScript jobs by stackoverflow : https://stackoverflow.com/jobs/developer-jobs-using-javascript <br />
 JavaScript jobs by JS remotely : https://jsremotely.com <br />
 
 <a name="book"></a>
-## 8. JavaScript book.
+## 9. JavaScript book.
 
 Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
