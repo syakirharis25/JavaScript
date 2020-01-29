@@ -33,6 +33,7 @@ Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
+Visual Studio Code Extension Marketplace : https://code.visualstudio.com/docs/editor/extension-gallery <br />
 Fira Code for Visual Studio Code by Nikita Prokopov : https://github.com/tonsky/FiraCode <br />
 Keyboard shortcuts for Windows - Visual Studio Code : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf <br />
 Sublime Text editor official website : https://www.sublimetext.com <br />
