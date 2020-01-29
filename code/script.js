@@ -1,102 +1,51 @@
-// Destructuring Variable / Assignment
+// Destructuring
 
-// Destructuring Array
-// const perkenalan = ['Halo', 'nama', 'saya', 'Sandhika Galih'];
-
-// const [salam, satu, dua, nama] = perkenalan;
-
-// skipping items
-// const [salam, , , nama] = perkenalan;
-// console.log(nama);
-
-// swap items
-// let a = 1;
-// let b = 2;
-// console.log(a);
-// console.log(b);
-// [a, b] = [b, a];
-// console.log(a);
-// console.log(b);
-
-// return value pada function
-// function coba() {
-//     return [1, 2];
+// function kalkulasi(a, b) {
+//     return [a + b, a - b, a * b, a / b];
 // }
 
-// const [a, b] = coba();
-// console.log(b);
+// const jumlah = penjumlahanPerkalian(2, 3)[0];
+// const kali = penjumlahanPerkalian(2, 3)[1];
 
-// Rest parameter
-// const [a, ...values] = [1, 2, 3, 4, 5];
-// console.log(a);
-// console.log(values);
+// const [jumlah, kali] = penjumlahanPerkalian(2, 3);
+// console.log(jumlah);
+// console.log(kali);
 
-// Destructuring Object
-// const mhs = {
-//     nama: 'Sandhika Galih',
-//     umur: 33
+// const [tambah, kurang, kali, bagi = 'tidak ada'] = kalkulasi(2, 3);
+// console.log(bagi);
+
+// function kalkulasi(a, b) {
+//     return {
+//         tambah: a + b,
+//         kurang: a - b,
+//         kali: a * b,
+//         bagi: a / b
+//     }
 // }
 
-// const {
-//     nama,
-//     umur
-// } = mhs;
-// console.log(nama);
+// const { bagi, tambah, kali, kurang } = kalkulasi(2, 3);
+// console.log(kurang);
 
-// Assignment tanpa deklarasi object
-// ({ nama, umur } = { nama: 'Sandhika Galih', umur: 33 });
-
-// console.log(nama);
-
-// Assign ke variable baru
-// const mhs = {
-//     nama: 'Sandhika Galih',
-//     umur: 33
-// }
-
-// const { nama: n, umur: u } = mhs;
-// console.log(u);
-
-// Memberikan Default Value
-// const mhs = {
-//     nama: 'Sandhika Galih',
-//     umur: 33,
-//     email: 'sandhikagalih@ac.id'
-// }
-
-// const { nama, umur, email = 'email@default.com' } = mhs;
-// console.log(email);
-
-// Memberi nilai default + assign ke variabel baru
-// const mhs = {
-//     nama: 'Sandhika Galih',
-//     umur: 3,
-//     email: 'sandhikagalih@unpas.ac.id'
-// }
-
-// const { nama: n, umur: u, email: e = 'email@default.com' } = mhs;
-// console.log(e);
-
-// Rest Parameter
-// const mhs = {
-//     nama: 'Sandhika Galih',
-//     umur: 3,
-//     email: 'sandhikagalih@unpas.ac.id'
-// }
-
-// const { nama, ...value } = mhs;
-// console.log(value);
-
-// Mengambil field pada object, setelah dikirim sebagai parameter untuk function
-const mhs = {
-    id: 123,
+// Destructuring function arguments
+const mhs1 = {
     nama: 'Sandhika Galih',
     umur: 33,
-    email: 'sandhikagalih@unpas.ac.id'
+    email: 'sandhikagalih@unpas.ac.id',
+    nilai: {
+        tugas: 80,
+        uts: 85,
+        uas: 75
+    }
 }
 
-function getIdMhs({ id }) {
-    return id;
+// function cetakMhs(mhs) {
+//     return `Halo, nama saya ${mhs.nama}, saya berumur ${mhs.umur} tahun.`;
+// }
+
+// console.log(cetakMhs(mhs1.nama, mhs1.umur));
+
+function cetakMhs({ nama, umur, nilai: { tugas, uts, uas } }) {
+    return `Halo, nama saya ${nama}, saya berumur ${umur} tahun, dan nilai uas saya adalah ${uas}.`;
 }
 
-console.log(getIdMhs(mhs));
+console.log(cetakMhs(mhs1));
