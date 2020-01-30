@@ -88,6 +88,7 @@ JavaScript for...of by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Ja
 JavaScript Object.entries() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries
 JavaScript NodeList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NodeList
 JavaScript The arguments object by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+JavaScript for...in by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
 
 **_Articles_**
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
