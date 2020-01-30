@@ -1,63 +1,34 @@
-// for..of
-// const mhs = ['Sandhika', 'Doddy', 'Erik'];
-
-// for (let i = 0; i < mhs.length; i++) {
-//     console.log(mhs[i]); 
-// }
-
-// mhs.forEach(m => console.log(m));
-
-// for (const m of mhs) {
-//     console.log(m); 
-// }
-
-//String
-// const nama = 'Sandhika';
-// for (const n of nama) {
-//     console.log(n);
-// }
+// Spread Operator
+// memecah iterables menjadi single element
 
 // const mhs = ['Sandhika', 'Doddy', 'Erik'];
-// mhs.forEach((m, i) => {
-//     console.log(`${m} adalah mahasiswa ke-${i + 1}`);
-// });
+// console.log(...mhs[0]);
 
-// for (const [i, m] of mhs.entries()) {
-//     console.log(`${m} adalah mahasiswa ke-${i + 1}`);
+// Menggabungkan 2 array
+// const mhs = ['Sandhika', 'Doddy', 'Erik'];
+// const dosen = ['Ade', 'Hendra', 'Wanda'];
+// const orang = [...mhs, 'Aji', ...dosen];
+// const orang = mhs.concat(dosen);
+// console.log(orang);
+
+// meng-copy array
+// const mhs = ['Sandhika', 'Doddy', 'Erik'];
+// // const mhs1 = mhs;
+// const mhs1 = [...mhs];
+// mhs1[0] = 'Fajar';
+// console.log(mhs);
+
+// const liMhs = document.querySelectorAll('li');
+// const mhs = [];
+// for (let i = 0; i < liMhs.length; i++) {
+//     mhs.push(liMhs[i].textContent);
 // }
-
-// NodeList
-const liNama = document.querySelectorAll('.nama');
-
-// liNama.forEach(n => console.log(n.textContent));
-// for (n of liNama) {
-//     console.log(n.innerHTML);
-// }
+// console.log(mhs);
+// const mhs = [...liMhs].map(m => m.textContent);
+// console.log(mhs);
 
 
 
-
-// arguments
-// function jumlahkanAngka() {
-//     // return [1, 2, 3, 4, 5].reduce((a, i) => a + i);
-//     // [1, 2, 3].forEach(a => jumlah += a);
-//     let jumlah = 0;
-//     for (a of arguments) {
-//         jumlah += a;
-//     }
-//     return jumlah;
-// }
-
-// console.log(jumlahkanAngka(1, 2, 3, 4, 5));
-
-
-// for.. in
-const mhs = {
-    nama: 'Sandhika',
-    umur: 33,
-    email: 'sandhikagalih@unpas.ac.id '
-}
-
-for (m in mhs) {
-    console.log(mhs[m]);
-}
+const nama = document.querySelector('.nama');
+const huruf = [...nama.textContent].map(h => `<span>${h}</span>`).join('');
+nama.innerHTML = huruf;
