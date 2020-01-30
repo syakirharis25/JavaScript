@@ -78,18 +78,18 @@ JavaScript Closures by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Ja
 JavaScript Array.prototype.filter() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter <br />
 JavaScript Array.prototype.reduce() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce <br />
 JavaScript parseFloat() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat <br />
-JavaScript Math.floor() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
-JavaScript Node.textContent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
-JavaScript Template literals (Template strings) by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-JavaScript Conditional (ternary) operator by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
-JavaScript Destructuring assignment by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
-JavaScript Rest parameters by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
-JavaScript for...of by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
-JavaScript Object.entries() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries
-JavaScript NodeList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NodeList
-JavaScript The arguments object by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
-JavaScript for...in by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
-JavaScript Spread syntax by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+JavaScript Math.floor() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor <br />
+JavaScript Node.textContent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent <br />
+JavaScript Template literals (Template strings) by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals <br />
+JavaScript Conditional (ternary) operator by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator <br />
+JavaScript Destructuring assignment by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment <br />
+JavaScript Rest parameters by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters <br />
+JavaScript for...of by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of <br />
+JavaScript Object.entries() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries <br />
+JavaScript NodeList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NodeList <br />
+JavaScript The arguments object by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments <br />
+JavaScript for...in by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in <br />
+JavaScript Spread syntax by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax <br />
 
 **_Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
