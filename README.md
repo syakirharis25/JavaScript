@@ -91,7 +91,7 @@ JavaScript The arguments object by Mozilla : https://developer.mozilla.org/en-US
 JavaScript for...in by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
 JavaScript Spread syntax by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 
-**_Articles_**
+**_Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 An introduction to functional programming article by Mary Rose Cook : https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming <br />
 Tagged Template literals — Its more than you think `Bharathvaj Ganesan` : https://codeburst.io/javascript-es6-tagged-template-literals-a45c26e54761 <br />
