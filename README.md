@@ -23,6 +23,7 @@ JavaScript is a high-level, interpreted language that can easily be embedded wit
 <a name="reference"></a>
 ## 2. JavaScript official websites.
 JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
+JavaScript Object Notation (JSON) was created by Douglas Crockford : https://github.com/douglascrockford <br />
 Philip Guo official GitHub account : https://github.com/pgbovine <br />
 Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
 Anjana Vakil official GitHub account : https://github.com/vakila <br />
