@@ -34,7 +34,7 @@ Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 Atom by GitHub : https://atom.io <br />
-Configure the Atom live server to use Google Chrome : https://www.gizmola.com/blog/archives/125-Configure-the-Atom-live-server-to-use-Chrome.html <br />
+Configure the Atom live server to use Google Chrome : https://www.gizmola.com/blog/archives/125-Configure-the-Atom-live-server-to-use-Chrome.html; https://www.youtube.com/watch?v=9mKQHUpqN5k <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
 Visual Studio Code Extension Marketplace : https://code.visualstudio.com/docs/editor/extension-gallery <br />
 Fira Code for Visual Studio Code by Nikita Prokopov : https://github.com/tonsky/FiraCode <br />
