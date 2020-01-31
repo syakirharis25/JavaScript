@@ -107,6 +107,7 @@ Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br 
 i18n Tagged Template Literals | `internationalization` : https://github.com/skolmer/es2015-i18n-tag
 styled-components : https://styled-components.com/docs/basics/#getting-started
 JavaScript Object Notation (JSON) playground : https://jsbin.com/reyodafucu/edit?html,console,output
+JSON Validator : https://jsonlint.com
 
 <a name="console"></a>
 ## 3. JavaScript console.
