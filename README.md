@@ -91,6 +91,7 @@ JavaScript The arguments object by Mozilla : https://developer.mozilla.org/en-US
 JavaScript for...in by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in <br />
 JavaScript Spread syntax by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax <br />
 JavaScript typeof by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof <br />
+JavaScript Callback function by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Callback_function <br />
 
 **_Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
