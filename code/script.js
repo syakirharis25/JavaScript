@@ -1,50 +1,85 @@
-// Rest Parameter
-
-// function myFunc(...myArgs) {
-//     // return `a = ${a}, b = ${b}, myArgs = ${myArgs}`;
-//     // return myArgs;
-//     // return Array.from(arguments);
-//     return [...arguments];
+// Callback
+// Synchronous Callback
+// function halo(nama) {
+//     alert(`Halo, ${nama}`);
 // }
 
-// console.log(myFunc(1, 2, 3, 4, 5));
-
-// function jumlahkan(...angka) {
-// let total = 0;
-// for (const a of angka) {
-//     total += a;
+// function tampilkanPesan(callback) {
+//     const nama = prompt('Masukkan Nama : ');
+//     callback(nama);
 // }
 
-//     return total;
-//     return angka.reduce((a, b) => a + b);
+// tampilkanPesan(nama => alert(`Halo, ${nama}`));
+
+// const mhs = [
+//     {
+//         "nama": "Sandhika Galih",
+//         "nrp": "043040023",
+//         "email": "sandhikagalih@unpas.ac.id",
+//         "jurusan": "Teknik Informatika",
+//         "idDosenWali": 1
+//     },
+//     {
+//         "nama": "Doddy Ferdiansyah",
+//         "nrp": "133040123",
+//         "email": "doddy@gmail.com",
+//         "jurusan": "Teknik Informatika",
+//         "idDosenWali": 2
+//     },
+//     {
+//         "nama": "Erik",
+//         "nrp": "104040001",
+//         "email": "sandhikagalih@unpas.ac.id",
+//         "jurusan": "Teknik Industri",
+//         "idDosenWali": 2
+//     },
+// ];
+
+// console.log('mulai');
+// mhs.forEach(m => {
+//     for (let i = 0; i < 10000000; i++) {
+//         let date = new Date();
+//     }
+//     console.log(m.nama)
+// });
+// console.log('selesai');
+
+// Asynchronous Callback
+// function getDataMahasiswa(url, success, error) {
+//     let xhr = new XMLHttpRequest();
+
+//     xhr.onreadystatechange = function () {
+//         if (xhr.readyState === 4) {
+//             if (xhr.status === 200) {
+//                 success(xhr.response);
+//             } else if (xhr.status === 404) {
+//                 error();
+//             }
+//         }
+//     }
+
+//     xhr.open('get', url);
+//     xhr.send();
 // }
 
-// console.log(jumlahkan(1, 2, 3, 4, 5));
-// const kelompok1 = ['Sandhika', 'Doddy', 'Erik', 'Fajar', 'Hendra'];
-// const [ketua, wakil, ...anggota] = kelompok1;
-// console.log(anggota);
+// console.log('mulai');
+// getDataMahasiswa('data/mahasiswa.json', results => {
+//     const mhs = JSON.parse(results);
+//     mhs.forEach(m => console.log(m.nama));
+// }, () => {
 
-// object destructuring
-// const team = {
-//     pm: 'Sandhika',
-//     frontEnd1: 'Doddy',
-//     frontEnd2: 'Erik',
-//     backEnd: 'Fajar',
-//     ux: 'Hendra',
-//     dev0ps: 'Ferry'
-// }
+// });
+// console.log('selesai');
 
-// const { pm, ...myTeam } = team;
-// console.log(myTeam);
-
-
-
-
-
-
-// filtering
-function filterBy(type, ...values) {
-    return values.filter(v => typeof v === type);
-}
-
-console.log(filterBy('boolean', 1, 2, 'Sandhika', false, 10, true, 'Doddy'));
+// JQuery
+console.log('mulai');
+$.ajax({
+    url: 'data/mahasiswa.json',
+    success: (mhs) => {
+        mhs.forEach(m => console.log(m.nama));
+    },
+    error: (e) => {
+        console.log(e.responseText);
+    }
+});
+console.log('selesai');
