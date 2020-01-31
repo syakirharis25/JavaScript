@@ -43,7 +43,9 @@ Sublime Text editor official website : https://www.sublimetext.com <br />
 Sublime Text editor package control : https://packagecontrol.io <br />
 Emmet official website : https://emmet.io <br />
 Emmet documentation : https://docs.emmet.io <br />
-jQuery : https://code.jquery.com
+jQuery : https://code.jquery.com <br />
+
+JavaScript XML HttpRequest by w3schools.com : https://www.w3schools.com/xml/xml_http.asp <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
