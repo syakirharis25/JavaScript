@@ -97,6 +97,9 @@ JavaScript .siblings() by jQuery : https://api.jquery.com/siblings/#siblings-sel
 JavaScript .next() by jQuery : https://api.jquery.com/next/#next-selector <br />
 JavaScript .nextAll() by jQuery : https://api.jquery.com/nextAll/#nextAll-selector <br />
 JavaScript .nextUntil() by jQuery : https://api.jquery.com/nextUntil/#nextUntil-selector-filter <br />
+JavaScript .prev() by jQuery : https://api.jquery.com/prev/#prev-selector <br />
+JavaScript .prevUntil() by jQuery : https://api.jquery.com/prevUntil/#prevUntil-selector-filter <br />
+JavaScript .prevAll() by jQuery : https://api.jquery.com/prevAll/#prevAll-selector <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
