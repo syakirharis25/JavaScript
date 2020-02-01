@@ -47,6 +47,7 @@ Emmet official website : https://emmet.io <br />
 Emmet documentation : https://docs.emmet.io <br />
 jQuery : https://code.jquery.com <br />
 jQuery download page : https://jquery.com/download <br />
+Google Hosted Llibararies for JavaScript : https://developers.google.com/speed/libraries <br />
 
 JavaScript XML HttpRequest by w3schools.com : https://www.w3schools.com/xml/xml_http.asp <br />
 
