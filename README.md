@@ -36,7 +36,7 @@ Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
 
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
-**_JavaScript text editors**
+**_JavaScript text editors_** <br />
 Atom by GitHub : https://atom.io <br />
 Configure the Atom live server to use Google Chrome : https://www.gizmola.com/blog/archives/125-Configure-the-Atom-live-server-to-use-Chrome.html; https://www.youtube.com/watch?v=9mKQHUpqN5k <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
@@ -51,10 +51,10 @@ jQuery : https://code.jquery.com <br />
 jQuery download page : https://jquery.com/download <br />
 Google Hosted Llibararies for JavaScript : https://developers.google.com/speed/libraries <br />
 
-**_JavaScript by w3schools.com**
+**_JavaScript by w3schools.com_** <br />
 JavaScript XML HttpRequest by w3schools.com : https://www.w3schools.com/xml/xml_http.asp <br />
 
-**_JavaScript by jQuery_**
+**_JavaScript by jQuery_** <br />
 JavaScript $( document ).ready() by jQuery : https://learn.jquery.com/using-jquery-core/document-ready <br />
 JavaScript events by jQuery : https://api.jquery.com/category/events <br />
 JavaScript .text() by jQuery : https://api.jquery.com/text <br />
@@ -85,7 +85,7 @@ JavaScript .slideDown() by jQuery : https://api.jquery.com/slideDown/#slideDown-
 JavaScript .slideToggle() by jQuery : https://api.jquery.com/slideToggle/#slideToggle-duration-complete <br />
 JavaScript .stop() by jQuery : https://api.jquery.com/stop/#stop-clearQueue-jumpToEnd <br />
 
-**_JavaScript by Mozilla_**
+**_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
 JavaScript Event reference by Mozilla : https://developer.mozilla.org/en-US/docs/web/events <br />
