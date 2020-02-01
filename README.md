@@ -69,6 +69,8 @@ JavaScript .innerHeight() by jQuery : https://api.jquery.com/innerHeight/#innerH
 JavaScript .innerWidth() by jQuery : https://api.jquery.com/innerWidth/#innerWidth <br />
 JavaScript .outerWidth() by jQuery : https://api.jquery.com/outerWidth/#outerWidth-includeMargin <br />
 JavaScript .outerHeight() by jQuery : https://api.jquery.com/outerHeight/#outerHeight-includeMargin <br />
+JavaScript .hide() by jQuery : https://api.jquery.com/hide/#hide <br />
+JavaScript .show() by jQuery : https://api.jquery.com/show/#show <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
