@@ -56,6 +56,8 @@ JavaScript events by jQuery : https://api.jquery.com/category/events <br />
 JavaScript .text() by jQuery : https://api.jquery.com/text <br />
 JavaScript .append() by jQuery : https://api.jquery.com/append/ <br />
 JavaScript .prepend() by jQuery : https://api.jquery.com/prepend/ <br />
+JavaScript .after() by jQuery : https://api.jquery.com/after/#after-content-content <br />
+JavaScript .before() by jQuery : https://api.jquery.com/before/#before-content-content <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
