@@ -63,6 +63,12 @@ JavaScript .empty() by jQuery : https://api.jquery.com/empty/#empty <br />
 JavaScript .addClass() by jQuery : https://api.jquery.com/addClass/#addClass-className <br />
 JavaScript .removeClass() by jQuery : https://api.jquery.com/removeClass/#removeClass-className <br />
 JavaScript .toggleClass() by jQuery : https://api.jquery.com/toggleClass/#toggleClass-className <br />
+JavaScript .height() by jQuery : https://api.jquery.com/height/#height <br />
+JavaScript .width() by jQuery : https://api.jquery.com/width/#width <br />
+JavaScript .innerHeight() by jQuery : https://api.jquery.com/innerHeight/#innerHeight <br />
+JavaScript .innerWidth() by jQuery : https://api.jquery.com/innerWidth/#innerWidth <br />
+JavaScript .outerWidth() by jQuery : https://api.jquery.com/outerWidth/#outerWidth-includeMargin <br />
+JavaScript .outerHeight() by jQuery : https://api.jquery.com/outerHeight/#outerHeight-includeMargin <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
