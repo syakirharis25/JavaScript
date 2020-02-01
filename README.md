@@ -79,6 +79,7 @@ JavaScript .fadeTo() by jQuery : https://api.jquery.com/fadeTo/#fadeTo-duration-
 JavaScript .slideUp() by jQuery : https://api.jquery.com/slideUp/#slideUp-duration-complete <br />
 JavaScript .slideDown() by jQuery : https://api.jquery.com/slideDown/#slideDown-duration-complete <br />
 JavaScript .slideToggle() by jQuery : https://api.jquery.com/slideToggle/#slideToggle-duration-complete <br />
+JavaScript .stop() by jQuery : https://api.jquery.com/stop/#stop-clearQueue-jumpToEnd <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
