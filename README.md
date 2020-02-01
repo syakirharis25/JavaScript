@@ -11,7 +11,8 @@ My works related to JavaScript programming language.
 7. [jQuery.](#jquery)
 8. [GitHub notes.](#github)
 9. [JavaScript jobs.](#jobs)
-10. [JavaScript book.](#book)
+10. [JavaScript conferences.](#conferences)
+11. [JavaScript book.](#book)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -279,9 +280,14 @@ JavaScript remote jobs by remoteok : https://remoteok.io <br />
 JavaScript jobs by stackoverflow : https://stackoverflow.com/jobs/developer-jobs-using-javascript <br />
 JavaScript jobs by JS remotely : https://jsremotely.com <br />
 
-<a name="book"></a>
-## 10. JavaScript book.
 
+<a name="conferences"></a>
+## 10. JavaScript conferences.
+International JavaScript Conference : https://javascript-conference.com <br />
+JavaScript related technologies conferences : https://confs.tech/javascript <br /> 
+
+<a name="book"></a>
+## 11. JavaScript book.
 Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 <img src="eloquent-javascript.jpg" height="500">
