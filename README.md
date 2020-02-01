@@ -101,6 +101,7 @@ JavaScript .prev() by jQuery : https://api.jquery.com/prev/#prev-selector <br />
 JavaScript .prevUntil() by jQuery : https://api.jquery.com/prevUntil/#prevUntil-selector-filter <br />
 JavaScript .prevAll() by jQuery : https://api.jquery.com/prevAll/#prevAll-selector <br />
 JavaScript .children() by jQuery : https://api.jquery.com/children/#children-selector <br />
+JavaScript .find() by jQuery : https://api.jquery.com/find/#find-selector <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
