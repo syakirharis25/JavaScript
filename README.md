@@ -36,6 +36,7 @@ Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
 
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
+**_JavaScript text editors**
 Atom by GitHub : https://atom.io <br />
 Configure the Atom live server to use Google Chrome : https://www.gizmola.com/blog/archives/125-Configure-the-Atom-live-server-to-use-Chrome.html; https://www.youtube.com/watch?v=9mKQHUpqN5k <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
@@ -50,8 +51,10 @@ jQuery : https://code.jquery.com <br />
 jQuery download page : https://jquery.com/download <br />
 Google Hosted Llibararies for JavaScript : https://developers.google.com/speed/libraries <br />
 
+**_JavaScript by w3schools.com**
 JavaScript XML HttpRequest by w3schools.com : https://www.w3schools.com/xml/xml_http.asp <br />
 
+**_JavaScript by jQuery_**
 JavaScript $( document ).ready() by jQuery : https://learn.jquery.com/using-jquery-core/document-ready <br />
 JavaScript events by jQuery : https://api.jquery.com/category/events <br />
 JavaScript .text() by jQuery : https://api.jquery.com/text <br />
@@ -82,6 +85,7 @@ JavaScript .slideDown() by jQuery : https://api.jquery.com/slideDown/#slideDown-
 JavaScript .slideToggle() by jQuery : https://api.jquery.com/slideToggle/#slideToggle-duration-complete <br />
 JavaScript .stop() by jQuery : https://api.jquery.com/stop/#stop-clearQueue-jumpToEnd <br />
 
+**_JavaScript by Mozilla_**
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
 JavaScript Event reference by Mozilla : https://developer.mozilla.org/en-US/docs/web/events <br />
@@ -138,8 +142,9 @@ JavaScript JSON.stringify() by Mozilla : https://developer.mozilla.org/en-US/doc
 JavaScript HTMLElement.click() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click <br />
 JavaScript Element: mouseenter event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseenter_event <br />
 JavaScript Element: mouseleave event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseleave_event <br />
+JavaScript Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/alert <br />
 
-**_Articles_** <br />
+**_JavaScript Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 An introduction to functional programming article by Mary Rose Cook : https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming <br />
 Tagged Template literals — Its more than you think `Bharathvaj Ganesan` : https://codeburst.io/javascript-es6-tagged-template-literals-a45c26e54761 <br />
