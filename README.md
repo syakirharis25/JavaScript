@@ -94,6 +94,7 @@ JavaScript .eq() by jQuery : https://api.jquery.com/eq/#eq-index <br />
 JavaScript .filter() by jQuery : https://api.jquery.com/filter/#filter-selector <br />
 JavaScript .not() by jQuery : https://api.jquery.com/not/#not-selector <br />
 JavaScript .siblings() by jQuery : https://api.jquery.com/siblings/#siblings-selector <br />
+JavaScript .next() by jQuery : https://api.jquery.com/next/#next-selector <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
