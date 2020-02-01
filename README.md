@@ -72,6 +72,9 @@ JavaScript .outerHeight() by jQuery : https://api.jquery.com/outerHeight/#outerH
 JavaScript .hide() by jQuery : https://api.jquery.com/hide/#hide <br />
 JavaScript .show() by jQuery : https://api.jquery.com/show/#show <br />
 JavaScript .toggle() by jQuery : https://api.jquery.com/toggle/#toggle-duration-complete <br />
+JavaScript .fadeIn() by jQuery : https://api.jquery.com/fadeIn/#fadeIn-duration-complete <br />
+JavaScript .fadeOut() by jQuery : https://api.jquery.com/fadeOut/#fadeOut-duration-complete <br />
+JavaScript .fadeToggle() by jQuery : https://api.jquery.com/fadeToggle/#fadeToggle-duration-easing-complete <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
