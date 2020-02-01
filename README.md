@@ -90,6 +90,7 @@ JavaScript .slideToggle() by jQuery : https://api.jquery.com/slideToggle/#slideT
 JavaScript .stop() by jQuery : https://api.jquery.com/stop/#stop-clearQueue-jumpToEnd <br />
 JavaScript .first() by jQuery : https://api.jquery.com/first/#first <br />
 JavaScript .first() by jQuery : https://api.jquery.com/first/#first <br />
+JavaScript .eq() by jQuery : https://api.jquery.com/eq/#eq-index <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
