@@ -56,6 +56,7 @@ Google Hosted Llibararies for JavaScript : https://developers.google.com/speed/l
 
 **_JavaScript by w3schools.com_** <br />
 JavaScript XML HttpRequest by w3schools.com : https://www.w3schools.com/xml/xml_http.asp <br />
+JavaScript jQuery - css() Method by by w3schools.com : https://www.w3schools.com/jquery/jquery_css.asp <br />
 
 **_JavaScript by jQuery_** <br />
 JavaScript $( document ).ready() by jQuery : https://learn.jquery.com/using-jquery-core/document-ready <br />
@@ -87,6 +88,8 @@ JavaScript .slideUp() by jQuery : https://api.jquery.com/slideUp/#slideUp-durati
 JavaScript .slideDown() by jQuery : https://api.jquery.com/slideDown/#slideDown-duration-complete <br />
 JavaScript .slideToggle() by jQuery : https://api.jquery.com/slideToggle/#slideToggle-duration-complete <br />
 JavaScript .stop() by jQuery : https://api.jquery.com/stop/#stop-clearQueue-jumpToEnd <br />
+JavaScript .first() by jQuery : https://api.jquery.com/first/#first <br />
+JavaScript .first() by jQuery : https://api.jquery.com/first/#first <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
