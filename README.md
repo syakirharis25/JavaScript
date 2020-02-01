@@ -71,6 +71,7 @@ JavaScript .outerWidth() by jQuery : https://api.jquery.com/outerWidth/#outerWid
 JavaScript .outerHeight() by jQuery : https://api.jquery.com/outerHeight/#outerHeight-includeMargin <br />
 JavaScript .hide() by jQuery : https://api.jquery.com/hide/#hide <br />
 JavaScript .show() by jQuery : https://api.jquery.com/show/#show <br />
+JavaScript .toggle() by jQuery : https://api.jquery.com/toggle/#toggle-duration-complete <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
