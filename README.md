@@ -75,6 +75,7 @@ JavaScript .toggle() by jQuery : https://api.jquery.com/toggle/#toggle-duration-
 JavaScript .fadeIn() by jQuery : https://api.jquery.com/fadeIn/#fadeIn-duration-complete <br />
 JavaScript .fadeOut() by jQuery : https://api.jquery.com/fadeOut/#fadeOut-duration-complete <br />
 JavaScript .fadeToggle() by jQuery : https://api.jquery.com/fadeToggle/#fadeToggle-duration-easing-complete <br />
+JavaScript .fadeTo() by jQuery : https://api.jquery.com/fadeTo/#fadeTo-duration-opacity-complete <br />
 
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
