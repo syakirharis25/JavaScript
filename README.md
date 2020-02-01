@@ -96,6 +96,7 @@ JavaScript .not() by jQuery : https://api.jquery.com/not/#not-selector <br />
 JavaScript .siblings() by jQuery : https://api.jquery.com/siblings/#siblings-selector <br />
 JavaScript .next() by jQuery : https://api.jquery.com/next/#next-selector <br />
 JavaScript .nextAll() by jQuery : https://api.jquery.com/nextAll/#nextAll-selector <br />
+JavaScript .nextUntil() by jQuery : https://api.jquery.com/nextUntil/#nextUntil-selector-filter <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
