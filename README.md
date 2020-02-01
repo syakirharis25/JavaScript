@@ -151,6 +151,22 @@ jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and 
 
 jQuery's syntax is designed to make it easier to navigate a document, select DOM elements, create animations, handle events, and develop Ajax applications. jQuery also provides capabilities for developers to create plug-ins on top of the JavaScript library. This enables developers to create abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets. The modular approach to the jQuery library allows the creation of powerful dynamic web pages and Web applications.
 
+To use jQuery, simply type the jQuery version into the script of the HTML.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Belajar JQuery</title>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+	
+</body>
+</html>
+```
+
 jQuery official website : https://jquery.com
 
 <a name="github"></a>
