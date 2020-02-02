@@ -57,7 +57,8 @@ Google Hosted Llibararies for JavaScript : https://developers.google.com/speed/l
 **_JavaScript by w3schools.com_** <br />
 JavaScript XML HttpRequest by w3schools.com : https://www.w3schools.com/xml/xml_http.asp <br />
 JavaScript jQuery - css() Method by by w3schools.com : https://www.w3schools.com/jquery/jquery_css.asp <br />
-Select remove() Method by by w3schools.com : https://www.w3schools.com/jsref/met_select_remove.asp <br />
+Select remove() Method by w3schools.com : https://www.w3schools.com/jsref/met_select_remove.asp <br />
+JavaScript Array forEach() Method by w3schools.com : https://www.w3schools.com/jsref/jsref_foreach.asp <br />
 
 **_JavaScript by jQuery_** <br />
 JavaScript $( document ).ready() by jQuery : https://learn.jquery.com/using-jquery-core/document-ready <br />
