@@ -164,6 +164,7 @@ JavaScript HTMLElement.click() by Mozilla : https://developer.mozilla.org/en-US/
 JavaScript Element: mouseenter event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseenter_event <br />
 JavaScript Element: mouseleave event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseleave_event <br />
 JavaScript Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/alert <br />
+JavaScript let by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let <br />
 
 **_JavaScript Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
