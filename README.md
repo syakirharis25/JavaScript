@@ -129,6 +129,7 @@ JavaScript Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/do
 JavaScript Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
 JavaScript this by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this <br />
 JavaScript Math.ceil() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil <br />
+JavaScript Object.values() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values <br />
 
 **_JavaScript Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
