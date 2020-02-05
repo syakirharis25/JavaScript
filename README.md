@@ -110,6 +110,8 @@ JavaScript .parentsUntil() by jQuery : https://api.jquery.com/parentsUntil/#pare
 JavaScript .offset() by jQuery : https://api.jquery.com/offset <br />
 JavaScript .addClass() by jQuery : https://api.jquery.com/addClass <br />
 JavaScript .removeClass() by jQuery : https://api.jquery.com/removeClass/ <br />
+JavaScript .animate() by jQuery : https://api.jquery.com/animate/ <br />
+JavaScript .text() by jQuery : https://api.jquery.com/text/ <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
@@ -177,6 +179,9 @@ JavaScript Functions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/J
 JavaScript console by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/console <br />
 JavaScript Window.innerHeight by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/innerHeight <br />
 JavaScript Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop <br />
+JavaScript Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
+JavaScript this by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this <br />
+
 
 **_JavaScript Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
