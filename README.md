@@ -60,59 +60,6 @@ JavaScript jQuery - css() Method by by w3schools.com : https://www.w3schools.com
 Select remove() Method by w3schools.com : https://www.w3schools.com/jsref/met_select_remove.asp <br />
 JavaScript Array forEach() Method by w3schools.com : https://www.w3schools.com/jsref/jsref_foreach.asp <br />
 
-**_JavaScript by jQuery_** <br />
-JavaScript $( document ).ready() by jQuery : https://learn.jquery.com/using-jquery-core/document-ready <br />
-JavaScript events by jQuery : https://api.jquery.com/category/events <br />
-JavaScript .text() by jQuery : https://api.jquery.com/text <br />
-JavaScript .append() by jQuery : https://api.jquery.com/append/ <br />
-JavaScript .prepend() by jQuery : https://api.jquery.com/prepend/ <br />
-JavaScript .after() by jQuery : https://api.jquery.com/after/#after-content-content <br />
-JavaScript .before() by jQuery : https://api.jquery.com/before/#before-content-content <br />
-JavaScript .remove() by jQuery : https://api.jquery.com/remove <br />
-JavaScript .empty() by jQuery : https://api.jquery.com/empty/#empty <br />
-JavaScript .addClass() by jQuery : https://api.jquery.com/addClass/#addClass-className <br />
-JavaScript .removeClass() by jQuery : https://api.jquery.com/removeClass/#removeClass-className <br />
-JavaScript .toggleClass() by jQuery : https://api.jquery.com/toggleClass/#toggleClass-className <br />
-JavaScript .height() by jQuery : https://api.jquery.com/height/#height <br />
-JavaScript .width() by jQuery : https://api.jquery.com/width/#width <br />
-JavaScript .innerHeight() by jQuery : https://api.jquery.com/innerHeight/#innerHeight <br />
-JavaScript .innerWidth() by jQuery : https://api.jquery.com/innerWidth/#innerWidth <br />
-JavaScript .outerWidth() by jQuery : https://api.jquery.com/outerWidth/#outerWidth-includeMargin <br />
-JavaScript .outerHeight() by jQuery : https://api.jquery.com/outerHeight/#outerHeight-includeMargin <br />
-JavaScript .hide() by jQuery : https://api.jquery.com/hide/#hide <br />
-JavaScript .show() by jQuery : https://api.jquery.com/show/#show <br />
-JavaScript .toggle() by jQuery : https://api.jquery.com/toggle/#toggle-duration-complete <br />
-JavaScript .fadeIn() by jQuery : https://api.jquery.com/fadeIn/#fadeIn-duration-complete <br />
-JavaScript .fadeOut() by jQuery : https://api.jquery.com/fadeOut/#fadeOut-duration-complete <br />
-JavaScript .fadeToggle() by jQuery : https://api.jquery.com/fadeToggle/#fadeToggle-duration-easing-complete <br />
-JavaScript .fadeTo() by jQuery : https://api.jquery.com/fadeTo/#fadeTo-duration-opacity-complete <br />
-JavaScript .slideUp() by jQuery : https://api.jquery.com/slideUp/#slideUp-duration-complete <br />
-JavaScript .slideDown() by jQuery : https://api.jquery.com/slideDown/#slideDown-duration-complete <br />
-JavaScript .slideToggle() by jQuery : https://api.jquery.com/slideToggle/#slideToggle-duration-complete <br />
-JavaScript .stop() by jQuery : https://api.jquery.com/stop/#stop-clearQueue-jumpToEnd <br />
-JavaScript .first() by jQuery : https://api.jquery.com/first/#first <br />
-JavaScript .first() by jQuery : https://api.jquery.com/first/#first <br />
-JavaScript .eq() by jQuery : https://api.jquery.com/eq/#eq-index <br />
-JavaScript .filter() by jQuery : https://api.jquery.com/filter/#filter-selector <br />
-JavaScript .not() by jQuery : https://api.jquery.com/not/#not-selector <br />
-JavaScript .siblings() by jQuery : https://api.jquery.com/siblings/#siblings-selector <br />
-JavaScript .next() by jQuery : https://api.jquery.com/next/#next-selector <br />
-JavaScript .nextAll() by jQuery : https://api.jquery.com/nextAll/#nextAll-selector <br />
-JavaScript .nextUntil() by jQuery : https://api.jquery.com/nextUntil/#nextUntil-selector-filter <br />
-JavaScript .prev() by jQuery : https://api.jquery.com/prev/#prev-selector <br />
-JavaScript .prevUntil() by jQuery : https://api.jquery.com/prevUntil/#prevUntil-selector-filter <br />
-JavaScript .prevAll() by jQuery : https://api.jquery.com/prevAll/#prevAll-selector <br />
-JavaScript .children() by jQuery : https://api.jquery.com/children/#children-selector <br />
-JavaScript .find() by jQuery : https://api.jquery.com/find/#find-selector <br />
-JavaScript .parent() by jQuery : https://api.jquery.com/parent/#parent-selector <br />
-JavaScript .parents() by jQuery : https://api.jquery.com/parents <br />
-JavaScript .parentsUntil() by jQuery : https://api.jquery.com/parentsUntil/#parentsUntil-selector-filter <br />
-JavaScript .offset() by jQuery : https://api.jquery.com/offset <br />
-JavaScript .addClass() by jQuery : https://api.jquery.com/addClass <br />
-JavaScript .removeClass() by jQuery : https://api.jquery.com/removeClass/ <br />
-JavaScript .animate() by jQuery : https://api.jquery.com/animate/ <br />
-JavaScript .text() by jQuery : https://api.jquery.com/text/ <br />
-
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
 JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
