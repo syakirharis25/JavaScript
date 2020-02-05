@@ -109,6 +109,7 @@ JavaScript .parents() by jQuery : https://api.jquery.com/parents <br />
 JavaScript .parentsUntil() by jQuery : https://api.jquery.com/parentsUntil/#parentsUntil-selector-filter <br />
 JavaScript .offset() by jQuery : https://api.jquery.com/offset <br />
 JavaScript .addClass() by jQuery : https://api.jquery.com/addClass <br />
+JavaScript .removeClass() by jQuery : https://api.jquery.com/removeClass/ <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
