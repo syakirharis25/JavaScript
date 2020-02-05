@@ -107,6 +107,7 @@ JavaScript .find() by jQuery : https://api.jquery.com/find/#find-selector <br />
 JavaScript .parent() by jQuery : https://api.jquery.com/parent/#parent-selector <br />
 JavaScript .parents() by jQuery : https://api.jquery.com/parents <br />
 JavaScript .parentsUntil() by jQuery : https://api.jquery.com/parentsUntil/#parentsUntil-selector-filter <br />
+JavaScript .offset() by jQuery : https://api.jquery.com/offset <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
@@ -168,6 +169,12 @@ JavaScript Element: mouseleave event by Mozilla : https://developer.mozilla.org/
 JavaScript Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/alert <br />
 JavaScript let by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let <br />
 JavaScript Functions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions <br />
+JavaScript Window by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window <br />
+JavaScript Window.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/scroll <br />
+JavaScript Functions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions <br />
+JavaScript console by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/console <br />
+JavaScript Window.innerHeight by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/innerHeight <br />
+
 
 **_JavaScript Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
