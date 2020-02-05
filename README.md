@@ -108,6 +108,7 @@ JavaScript .parent() by jQuery : https://api.jquery.com/parent/#parent-selector 
 JavaScript .parents() by jQuery : https://api.jquery.com/parents <br />
 JavaScript .parentsUntil() by jQuery : https://api.jquery.com/parentsUntil/#parentsUntil-selector-filter <br />
 JavaScript .offset() by jQuery : https://api.jquery.com/offset <br />
+JavaScript .addClass() by jQuery : https://api.jquery.com/addClass <br />
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
@@ -174,7 +175,7 @@ JavaScript Window.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs
 JavaScript Functions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions <br />
 JavaScript console by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/console <br />
 JavaScript Window.innerHeight by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/innerHeight <br />
-
+JavaScript Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop <br />
 
 **_JavaScript Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
