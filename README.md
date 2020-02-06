@@ -66,31 +66,25 @@ JavaScript Event reference by Mozilla : https://developer.mozilla.org/en-US/docs
 JavaScript const by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const <br />
 JavaScript Math by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math <br />
 JavaScript MouseEvent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent <br />
-JavaScript Document.querySelectorAll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll <br />
-JavaScript NonDocumentTypeChildNode.nextElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/nextElementSibling <br />
-JavaScript Node.previousSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/previousSibling <br />
-JavaScript NonDocumentTypeChildNode.previousElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/previousElementSibling <br />
 JavaScript Object.create() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create  <br />
 JavaScript Object prototypes by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes <br />
 JavaScript Hoisting by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Hoisting <br />
 JavaScript var by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var <br />
 JavaScript Arrow function expressions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions <br />
 JavaScript Array.prototype.map() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map <br />
-JavaScript Console.table() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/table <br />
 JavaScript Function expression by Mozilla : https://developer.mozilla.org/en-US/docs/web/JavaScript/Reference/Operators/function <br />
 JavaScript Closures by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures <br />
 JavaScript Array.prototype.filter() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter <br />
 JavaScript Array.prototype.reduce() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce <br />
 JavaScript parseFloat() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat <br />
 JavaScript Math.floor() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor <br />
-JavaScript Node.textContent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent <br />
 JavaScript Template literals (Template strings) by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals <br />
 JavaScript Conditional (ternary) operator by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator <br />
 JavaScript Destructuring assignment by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment <br />
 JavaScript Rest parameters by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters <br />
 JavaScript for...of by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of <br />
 JavaScript Object.entries() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries <br />
-JavaScript NodeList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NodeList <br />
+
 JavaScript The arguments object by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments <br />
 JavaScript for...in by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in <br />
 JavaScript Spread syntax by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax <br />
@@ -100,7 +94,7 @@ JavaScript Cross-Origin Resource Sharing (CORS) by Mozilla : https://developer.m
 JavaScript JSON.stringify() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify <br />
 JavaScript let by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let <br />
 JavaScript Functions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions <br />
-JavaScript Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
+
 JavaScript this by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this <br />
 JavaScript Math.ceil() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil <br />
 JavaScript Object.values() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values <br />
@@ -113,7 +107,6 @@ What’s in the head? Metadata in HTML article by Mozilla : https://developer.mo
 An introduction to functional programming article by Mary Rose Cook : https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming <br />
 Tagged Template literals — Its more than you think `Bharathvaj Ganesan` : https://codeburst.io/javascript-es6-tagged-template-literals-a45c26e54761 <br />
 Higher-Order Functions in JavaScript by Marijn Haverbeke : https://eloquentjavascript.net/05_higher_order.html <br />
-Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
 
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
 i18n Tagged Template Literals | `internationalization` : https://github.com/skolmer/es2015-i18n-tag <br />
