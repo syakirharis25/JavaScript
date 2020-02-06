@@ -84,7 +84,6 @@ JavaScript Destructuring assignment by Mozilla : https://developer.mozilla.org/e
 JavaScript Rest parameters by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters <br />
 JavaScript for...of by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of <br />
 JavaScript Object.entries() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries <br />
-
 JavaScript The arguments object by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments <br />
 JavaScript for...in by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in <br />
 JavaScript Spread syntax by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax <br />
@@ -94,7 +93,6 @@ JavaScript Cross-Origin Resource Sharing (CORS) by Mozilla : https://developer.m
 JavaScript JSON.stringify() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify <br />
 JavaScript let by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let <br />
 JavaScript Functions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions <br />
-
 JavaScript this by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this <br />
 JavaScript Math.ceil() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil <br />
 JavaScript Object.values() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values <br />
