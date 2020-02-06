@@ -62,33 +62,17 @@ JavaScript Array forEach() Method by w3schools.com : https://www.w3schools.com/j
 
 **_JavaScript by Mozilla_** <br />
 JavaScript Classes by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes <br />
-JavaScript Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
 JavaScript Event reference by Mozilla : https://developer.mozilla.org/en-US/docs/web/events <br />
-JavaScript EventListener by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/EventListener <br />
 JavaScript const by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const <br />
-JavaScript Element.innerHTML by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML <br />
-JavaScript HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
-JavaScript Document.querySelector() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector <br />
 JavaScript Math by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math <br />
 JavaScript MouseEvent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent <br />
-JavaScript Element.setAttribute() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute <br />
-JavaScript WindowOrWorkerGlobalScope.setInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval <br />
-JavaScript WindowOrWorkerGlobalScope.clearInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval <br />
 JavaScript Document.querySelectorAll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll <br />
-JavaScript Node.parentElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement <br />
-JavaScript Node.nextSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/nextSibling <br />
 JavaScript NonDocumentTypeChildNode.nextElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/nextElementSibling <br />
 JavaScript Node.previousSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/previousSibling <br />
 JavaScript NonDocumentTypeChildNode.previousElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/previousElementSibling <br />
-JavaScript Event.preventDefault() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault <br />
-JavaScript Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation <br />
-JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout <br />
-JavaScript Element.classList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/classList <br />
-JavaScript console.log() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/log <br />
 JavaScript Object.create() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create  <br />
 JavaScript Object prototypes by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes <br />
 JavaScript Hoisting by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Hoisting <br />
-JavaScript Console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/dir <br />
 JavaScript var by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var <br />
 JavaScript Arrow function expressions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions <br />
 JavaScript Array.prototype.map() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map <br />
@@ -114,17 +98,8 @@ JavaScript typeof by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Java
 JavaScript Callback function by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Callback_function <br />
 JavaScript Cross-Origin Resource Sharing (CORS) by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS <br />
 JavaScript JSON.stringify() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify <br />
-JavaScript HTMLElement.click() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click <br />
-JavaScript Element: mouseenter event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseenter_event <br />
-JavaScript Element: mouseleave event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseleave_event <br />
-JavaScript Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/alert <br />
 JavaScript let by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let <br />
-JavaScript Window by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window <br />
-JavaScript Window.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/scroll <br />
 JavaScript Functions by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions <br />
-JavaScript console by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/console <br />
-JavaScript Window.innerHeight by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/innerHeight <br />
-JavaScript Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop <br />
 JavaScript Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
 JavaScript this by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this <br />
 JavaScript Math.ceil() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil <br />
