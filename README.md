@@ -102,12 +102,14 @@ JavaScript Map by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScr
 JavaScript Function by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function <br />
 JavaScript String.prototype.search() : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search <br />
 
-**_JavaScript Articles_** <br />
+**_JavaScript articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
 An introduction to functional programming article by Mary Rose Cook : https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming <br />
 Tagged Template literals — Its more than you think `Bharathvaj Ganesan` : https://codeburst.io/javascript-es6-tagged-template-literals-a45c26e54761 <br />
 Higher-Order Functions in JavaScript by Marijn Haverbeke : https://eloquentjavascript.net/05_higher_order.html <br />
+JavaScript Callback Hell : http://callbackhell.com/ <br />
 
+**_JavaScript playground_**
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
 i18n Tagged Template Literals | `internationalization` : https://github.com/skolmer/es2015-i18n-tag <br />
 styled-components : https://styled-components.com/docs/basics/#getting-started <br />
