@@ -119,6 +119,7 @@ styled-components : https://styled-components.com/docs/basics/#getting-started <
 JavaScript Object Notation (JSON) playground : https://jsbin.com/reyodafucu/edit?html,console,output <br />
 JSON Validator : https://jsonlint.com <br />
 The Open Movie Database : http://www.omdbapi.com <br />
+JavaScript call stack/event loop/callback queue visualization : http://latentflip.com/loupe/ <br />
 
 <a name="console"></a>
 ## 3. JavaScript console.
