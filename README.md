@@ -100,6 +100,7 @@ JavaScript Object.values() by Mozilla : https://developer.mozilla.org/en-US/docs
 JavaScript if...else by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else <br />
 JavaScript Map by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map <br />
 JavaScript Function by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function <br />
+JavaScript String.prototype.search() : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search <br />
 
 **_JavaScript Articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
