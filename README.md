@@ -35,6 +35,7 @@ Anjana Vakil official GitHub account : https://github.com/vakila <br />
 Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
 Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
 Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
+Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
 
 **_JavaScript book_** <br />
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
