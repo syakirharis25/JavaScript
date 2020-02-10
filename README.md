@@ -116,6 +116,7 @@ Tagged Template literals — Its more than you think `Bharathvaj Ganesan` : http
 Higher-Order Functions in JavaScript by Marijn Haverbeke : https://eloquentjavascript.net/05_higher_order.html <br />
 JavaScript Callback Hell : http://callbackhell.com/ <br />
 JavaScript Promises: an Introduction : https://developers.google.com/web/fundamentals/primers/promises <br />
+The "event" binding : https://knockoutjs.com/documentation/event-binding.html <br />
 
 **_JavaScript playground_**
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
