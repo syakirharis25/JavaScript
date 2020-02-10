@@ -104,6 +104,7 @@ JavaScript Function by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Ja
 JavaScript String.prototype.search() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search <br />
 JavaScript Array by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array <br />
 JavaScript Array.isArray() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray <br />
+JavaScript Promise by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise <br />
 
 **_JavaScript articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
@@ -111,6 +112,7 @@ An introduction to functional programming article by Mary Rose Cook : https://co
 Tagged Template literals — Its more than you think `Bharathvaj Ganesan` : https://codeburst.io/javascript-es6-tagged-template-literals-a45c26e54761 <br />
 Higher-Order Functions in JavaScript by Marijn Haverbeke : https://eloquentjavascript.net/05_higher_order.html <br />
 JavaScript Callback Hell : http://callbackhell.com/ <br />
+JavaScript Promises: an Introduction : https://developers.google.com/web/fundamentals/primers/promises <br />
 
 **_JavaScript playground_**
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
