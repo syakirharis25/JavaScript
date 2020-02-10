@@ -109,6 +109,7 @@ JavaScript Promise.all() by Mozilla : https://developer.mozilla.org/en-US/docs/W
 JavaScript async function by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function <br />
 JavaScript await by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await <br />
 JavaScript Promise.reject() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/reject <br />
+JavaScript try...catch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch  <br />
 
 **_JavaScript articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
