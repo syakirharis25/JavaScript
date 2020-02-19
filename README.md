@@ -270,6 +270,7 @@ Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 <img src="eloquent-javascript.jpg" height="500">
 
+---
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
