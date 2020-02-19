@@ -270,7 +270,7 @@ Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 <img src="eloquent-javascript.jpg" height="500">
 
----
+### calculations : https://github.com/syakirharis25/cloc
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
@@ -285,4 +285,3 @@ JSON                             3              0              0             47
 SUM:                            82            544            800           2041
 -------------------------------------------------------------------------------
 ```
-https://github.com/syakirharis25/cloc
