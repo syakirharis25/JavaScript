@@ -269,3 +269,16 @@ JavaScript related technologies conferences : https://confs.tech/javascript <br 
 Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 <img src="eloquent-javascript.jpg" height="500">
+
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+JavaScript                      36            290            739            666
+HTML                            26            121             22            622
+CSS                             11             65             30            422
+Markdown                         1             42              0            227
+PHP                              5             26              9             57
+JSON                             3              0              0             47
+-------------------------------------------------------------------------------
+SUM:                            82            544            800           2041
+-------------------------------------------------------------------------------
