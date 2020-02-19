@@ -13,6 +13,7 @@ My works related to JavaScript programming language.
 9. [JavaScript jobs.](#jobs)
 10. [JavaScript conferences.](#conferences)
 11. [JavaScript book.](#book)
+12. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -263,13 +264,14 @@ JavaScript jobs by JS remotely : https://jsremotely.com <br />
 International JavaScript Conference : https://javascript-conference.com <br />
 JavaScript related technologies conferences : https://confs.tech/javascript <br /> 
 
-<a name="book"></a>
+
 ## 11. JavaScript book.
 Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 <img src="eloquent-javascript.jpg" height="500">
 
-## calculations : https://github.com/syakirharis25/cloc
+<a name="calculation"></a>
+## 12. GitHub repository calculation. : https://github.com/syakirharis25/cloc
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
