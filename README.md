@@ -258,7 +258,6 @@ JavaScript remote jobs by remoteok : https://remoteok.io <br />
 JavaScript jobs by stackoverflow : https://stackoverflow.com/jobs/developer-jobs-using-javascript <br />
 JavaScript jobs by JS remotely : https://jsremotely.com <br />
 
-
 <a name="conferences"></a>
 ## 10. JavaScript conferences.
 International JavaScript Conference : https://javascript-conference.com <br />
@@ -270,7 +269,7 @@ Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
 <img src="eloquent-javascript.jpg" height="500">
 
-### calculations : https://github.com/syakirharis25/cloc
+## calculations : https://github.com/syakirharis25/cloc
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
