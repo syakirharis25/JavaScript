@@ -271,7 +271,7 @@ Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
 <img src="eloquent-javascript.jpg" height="500">
 
 <a name="calculation"></a>
-## 12. GitHub repository calculation. : https://github.com/syakirharis25/cloc
+## 12. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
@@ -286,3 +286,4 @@ JSON                             3              0              0             47
 SUM:                            82            544            800           2041
 -------------------------------------------------------------------------------
 ```
+Refer to : https://github.com/syakirharis25/cloc
