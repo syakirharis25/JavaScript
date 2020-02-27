@@ -125,6 +125,7 @@ JavaScript Callback Hell : http://callbackhell.com/ <br />
 JavaScript Promises: an Introduction : https://developers.google.com/web/fundamentals/primers/promises <br />
 The "event" binding : https://knockoutjs.com/documentation/event-binding.html <br />
 The 'describe' keyword in javascript by Stack Overflow : https://stackoverflow.com/questions/12209582/the-describe-keyword-in-javascript#:~:text=Describe%20is%20a%20function%20in,used%20in%20the%20mochajs%20framework.&text=%22A%20test%20suite%20begins%20with,a%20string%20and%20a%20function. <br />
+What does the function then() mean in JavaScript? by Stack Overflow : https://stackoverflow.com/questions/3884281/what-does-the-function-then-mean-in-javascript <br />
 
 **_JavaScript playground_**
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
