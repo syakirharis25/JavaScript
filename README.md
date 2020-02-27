@@ -268,10 +268,8 @@ JavaScript jobs by JS remotely : https://jsremotely.com <br />
 International JavaScript Conference : https://javascript-conference.com <br />
 JavaScript related technologies conferences : https://confs.tech/javascript <br /> 
 
-
 ## 11. JavaScript book.
-Eloquent JavaScript by Marijn Haverbeke : https://eloquentjavascript.net <br />
-
+Eloquent JavaScript by Marijn Haverbeke (Third edition) : https://eloquentjavascript.net <br />
 <img src="eloquent-javascript.jpg" height="500">
 
 <a name="calculation"></a>
