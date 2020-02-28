@@ -37,6 +37,7 @@ Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
 Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
 Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
 Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
+Flavio Copes official GitHub account : https://github.com/flaviocopes <br />
 
 **_JavaScript book_** <br />
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
@@ -126,6 +127,7 @@ JavaScript Promises: an Introduction : https://developers.google.com/web/fundame
 The "event" binding : https://knockoutjs.com/documentation/event-binding.html <br />
 The 'describe' keyword in javascript by Stack Overflow : https://stackoverflow.com/questions/12209582/the-describe-keyword-in-javascript#:~:text=Describe%20is%20a%20function%20in,used%20in%20the%20mochajs%20framework.&text=%22A%20test%20suite%20begins%20with,a%20string%20and%20a%20function. <br />
 What does the function then() mean in JavaScript? by Stack Overflow : https://stackoverflow.com/questions/3884281/what-does-the-function-then-mean-in-javascript <br />
+ES5 to ESNext — here’s every feature added to JavaScript since 2015 by Flavio Copes : https://www.freecodecamp.org/news/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e/ <br />
 
 **_JavaScript playground_**
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
