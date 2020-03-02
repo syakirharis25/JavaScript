@@ -38,6 +38,7 @@ Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
 Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
 Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
 Flavio Copes official GitHub account : https://github.com/flaviocopes <br />
+Lydia Hallie official GitHub account : https://github.com/lydiahallie <br />
 
 **_JavaScript book_** <br />
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
