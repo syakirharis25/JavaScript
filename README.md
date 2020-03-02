@@ -259,18 +259,18 @@ JavaScript related technologies conferences : https://confs.tech/javascript <br 
 
 <a name="developers"></a>
 ## 11. JavaScript developers.
-1 - JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
-2 - JavaScript Object Notation (JSON) was created by Douglas Crockford : https://github.com/douglascrockford <br />
-3 - jQuery was created by John Resig : https://github.com/jeresig <br />
-4 - Philip Guo official GitHub account : https://github.com/pgbovine <br />
-5 - Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
-6 - Anjana Vakil official GitHub account : https://github.com/vakila <br />
-7 - Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
-8 - Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
-9 - Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
-10 - Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
-11 - Flavio Copes official GitHub account : https://github.com/flaviocopes <br />
-12 - Lydia Hallie official GitHub account : https://github.com/lydiahallie <br />
+JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
+JavaScript Object Notation (JSON) was created by Douglas Crockford : https://github.com/douglascrockford <br />
+jQuery was created by John Resig : https://github.com/jeresig <br />
+Anjana Vakil official GitHub account : https://github.com/vakila <br />
+Flavio Copes official GitHub account : https://github.com/flaviocopes <br />
+Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
+Lydia Hallie official GitHub account : https://github.com/lydiahallie <br />
+Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
+Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
+Philip Guo official GitHub account : https://github.com/pgbovine <br />
+Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
+Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
 
 ## 12. JavaScript book.
 Eloquent JavaScript by Marijn Haverbeke (Third edition) : https://eloquentjavascript.net <br />
