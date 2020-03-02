@@ -27,18 +27,18 @@ JavaScript is a high-level, interpreted language that can easily be embedded wit
 ## 2. JavaScript official websites.
 
 **_JavaScript developers official GitHub account_** <br />
-JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
-JavaScript Object Notation (JSON) was created by Douglas Crockford : https://github.com/douglascrockford <br />
-jQuery was created by John Resig : https://github.com/jeresig <br />
-Philip Guo official GitHub account : https://github.com/pgbovine <br />
-Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
-Anjana Vakil official GitHub account : https://github.com/vakila <br />
-Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
-Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
-Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
-Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
-Flavio Copes official GitHub account : https://github.com/flaviocopes <br />
-Lydia Hallie official GitHub account : https://github.com/lydiahallie <br />
+1 - JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
+2 - JavaScript Object Notation (JSON) was created by Douglas Crockford : https://github.com/douglascrockford <br />
+3 - jQuery was created by John Resig : https://github.com/jeresig <br />
+4 - Philip Guo official GitHub account : https://github.com/pgbovine <br />
+5 - Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
+6 - Anjana Vakil official GitHub account : https://github.com/vakila <br />
+7 - Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
+8 - Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
+9 - Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
+10 - Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
+11 - Flavio Copes official GitHub account : https://github.com/flaviocopes <br />
+12 - Lydia Hallie official GitHub account : https://github.com/lydiahallie <br />
 
 **_JavaScript book_** <br />
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
@@ -130,7 +130,7 @@ The 'describe' keyword in javascript by Stack Overflow : https://stackoverflow.c
 What does the function then() mean in JavaScript? by Stack Overflow : https://stackoverflow.com/questions/3884281/what-does-the-function-then-mean-in-javascript <br />
 ES5 to ESNext — here’s every feature added to JavaScript since 2015 by Flavio Copes : https://www.freecodecamp.org/news/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e/ <br />
 
-**_JavaScript playground_**
+**_JavaScript playground_** <br />
 Visualize JavaScript by Philip Guo : http://pythontutor.com/javascript.html <br />
 i18n Tagged Template Literals | `internationalization` : https://github.com/skolmer/es2015-i18n-tag <br />
 styled-components : https://styled-components.com/docs/basics/#getting-started <br />
