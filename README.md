@@ -12,8 +12,9 @@ My works related to JavaScript programming language.
 8. [GitHub notes.](#github)
 9. [JavaScript jobs.](#jobs)
 10. [JavaScript conferences.](#conferences)
-11. [JavaScript book.](#book)
-12. [GitHub repository calculation.](#calculation)
+11. [JavaScript developers.](#developers)
+12. [JavaScript book.](#book)
+13. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -25,21 +26,6 @@ JavaScript is a high-level, interpreted language that can easily be embedded wit
 
 <a name="reference"></a>
 ## 2. JavaScript official websites.
-
-**_JavaScript developers official GitHub account_** <br />
-1 - JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
-2 - JavaScript Object Notation (JSON) was created by Douglas Crockford : https://github.com/douglascrockford <br />
-3 - jQuery was created by John Resig : https://github.com/jeresig <br />
-4 - Philip Guo official GitHub account : https://github.com/pgbovine <br />
-5 - Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
-6 - Anjana Vakil official GitHub account : https://github.com/vakila <br />
-7 - Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
-8 - Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
-9 - Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
-10 - Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
-11 - Flavio Copes official GitHub account : https://github.com/flaviocopes <br />
-12 - Lydia Hallie official GitHub account : https://github.com/lydiahallie <br />
-
 **_JavaScript book_** <br />
 Eloquent JavaScript book by Marijn Haverbeke : https://eloquentjavascript.net <br />
 
@@ -271,12 +257,27 @@ JavaScript jobs by JS remotely : https://jsremotely.com <br />
 International JavaScript Conference : https://javascript-conference.com <br />
 JavaScript related technologies conferences : https://confs.tech/javascript <br /> 
 
-## 11. JavaScript book.
+<a name="developers"></a>
+## 11. JavaScript developers.
+1 - JavaScript was created by Brendan Eich : https://github.com/BrendanEich <br />
+2 - JavaScript Object Notation (JSON) was created by Douglas Crockford : https://github.com/douglascrockford <br />
+3 - jQuery was created by John Resig : https://github.com/jeresig <br />
+4 - Philip Guo official GitHub account : https://github.com/pgbovine <br />
+5 - Marijn Haverbeke official GitHub account : https://github.com/marijnh <br />
+6 - Anjana Vakil official GitHub account : https://github.com/vakila <br />
+7 - Nikita Prokopov official GitHub account : https://github.com/tonsky <br />
+8 - Sandhika Galih official GitHub account : https://github.com/sandhikagalih <br />
+9 - Steffen Kolmer official GitHub account : https://github.com/skolmer <br />
+10 - Jeff Atwood official GitHub account : https://github.com/coding-horror <br />
+11 - Flavio Copes official GitHub account : https://github.com/flaviocopes <br />
+12 - Lydia Hallie official GitHub account : https://github.com/lydiahallie <br />
+
+## 12. JavaScript book.
 Eloquent JavaScript by Marijn Haverbeke (Third edition) : https://eloquentjavascript.net <br />
 <img src="eloquent-javascript.jpg" height="500">
 
 <a name="calculation"></a>
-## 12. GitHub repository calculation.
+## 13. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
