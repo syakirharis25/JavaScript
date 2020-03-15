@@ -104,6 +104,7 @@ JavaScript Object.prototype.toString() by Mozilla : https://developer.mozilla.or
 JavaScript JSON.parse() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse <br />
 JavaScript parseInt() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt <br />
 JavaScript block by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block <br />
+JavaScript Date.now() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now <br />
 
 **_JavaScript articles_** <br />
 What’s in the head? Metadata in HTML article by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML <br />
